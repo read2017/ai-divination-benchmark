@@ -21,7 +21,7 @@
 
 <br>
 
-[从哪里开始](#从哪里开始) · [关键成绩](#关键成绩) · [被测项目](#被测项目) · [怎么测](#怎么测) · [复核成绩](#复核成绩) · [必须一起看的边界](#必须一起看的边界) · [目录与授权](#目录与授权) · [展示网页](docs/index.html)
+[从哪里开始](#从哪里开始) · [完整成绩](#完整成绩) · [怎么测](#怎么测) · [复核成绩](#复核成绩) · [必须一起看的边界](#必须一起看的边界) · [目录与授权](#目录与授权) · [展示网页](docs/index.html)
 
 <br>
 
@@ -38,46 +38,49 @@
 - [证据附件](reports/publication/人生变化命理测评-v6-证据附件.md)和[逐题明细CSV](reports/publication/人生变化测评-逐题明细.csv)。
 - 口播稿与自媒体成稿留在本地，不随仓库发布；本仓库只放可复核的测评材料。
 
-## 关键成绩
+## 完整成绩
 
-| 配置 | 准确分 /85 | 最终分 /100 | 同类大事命中 /46 | 方向说反 |
-|---|---:|---:|---:|---:|
-| 雪眠八字（出生资料组第一） | 10.61 | 16.74 | 4 | 4次 |
-| 金辰八字 | 9.94 | 16.00 | 4 | 5次 |
-| 命理大师 | 6.36 | 11.69 | 2 | 5次 |
-| “全说好事”固定规则（对照，非Skill） | 32.05 | 40.26 | 19 | 9次 |
+**出生资料组**：隐藏姓名与经历，只给出生资料和一段三年窗口。12 个配置，按准确分排序：
 
-排名按准确分，最终分包含具体性、错输入对照、可观察易用性。类别命中不等于年份完全准确；未命中不全是猜错，也包括遗漏和未作答。普通AI对照没有给判断，零分不能用来证明命理工具有效。完整16项配置和两项对照见报告。
+| # | 项目 | 体系 | 准确分 /85 | 最终分 /100 | 大事对上 /46 | 方向说对 /37 | 方向说反 | 实际作答 |
+|---:|---|---|---:|---:|---:|---:|---:|---:|
+| 1 | [雪眠八字](https://github.com/xuemian168/bazi-skill) | 八字 BaZi | 10.61 | 16.74 | 4 | 8 | 4 | 24/24 |
+| 2 | [金辰八字](https://github.com/jinchenma94/bazi-skill) | 八字 BaZi | 9.94 | 16.00 | 4 | 6 | 5 | 24/24 |
+| 3 | [命理大师](https://github.com/learnwithu/mingli-master) | 紫微 Zi Wei | 6.36 | 11.69 | 2 | 8 | 5 | 24/24 |
+| 4 | [印度占星](https://github.com/CNWU16/vedic-astro-skills) | 吠陀占星 Vedic | 5.31 | 7.57 | 0 | 6 | 1 | 10/24 |
+| 5 | [Wolke 紫微](https://github.com/Wolke/ziwei-doushu) | 紫微 Zi Wei | 4.58 | 8.42 | 0 | 9 | 2 | 24/24 |
+| 6 | [太卜·紫微](https://github.com/hhszzzz/taibu) | 紫微 Zi Wei | 4.29 | 9.11 | 1 | 6 | 1 | 24/24 |
+| 7 | [八字＋紫微](https://github.com/AdrianBOM/bazi-ziwei-skill) | 八字＋紫微 | 2.36 | 5.65 | 0 | 5 | 1 | 24/24 |
+| 8 | [命语](https://github.com/Brhiza/mingyu) | 八字 BaZi | 1.25 | 4.88 | 0 | 4 | 7 | 22/24 |
+| 9 | [高鑫八字](https://github.com/gaoxin492/bazi-skill) | 八字 BaZi | 0.21 | 1.96 | 0 | 1 | 2 | 10/24 |
+| 10 | [Horosa](https://github.com/Horace-Maxwell/horosa-skill) | 八字 BaZi | 0.21 | 1.79 | 0 | 1 | 2 | 9/24 |
+| 11 | [Suangua](https://github.com/Sudo-Biao/suangua) | 八字 BaZi | 0.00 | 0.00 | 0 | 0 | 0 | 0/24 |
+| 12 | [太卜·八字](https://github.com/hhszzzz/taibu) | 八字 BaZi | 0.00 | 0.00 | 0 | 0 | 0 | 0/24 |
 
-## 被测项目
+**问事组**：给定时刻或随机条件下的模拟咨询，与出生资料组口径不同，单独列榜。4 个配置：
 
-本轮读取并实测了 12 个开源仓库、16 种配置。按体系分组，链接指向本轮实际读取的仓库（不是推荐，也不代表合作关系）：
+| # | 项目 | 体系 | 准确分 /85 | 最终分 /100 | 大事对上 /46 | 方向说对 /37 | 方向说反 | 实际作答 |
+|---:|---|---|---:|---:|---:|---:|---:|---:|
+| 1 | [太卜·奇门](https://github.com/hhszzzz/taibu) | 奇门遁甲 Qi Men | 4.57 | 9.70 | 3 | 3 | 1 | 24/24 |
+| 2 | [太卜·六爻](https://github.com/hhszzzz/taibu) | 六爻 Liu Yao | 1.04 | 5.08 | 0 | 1 | 0 | 23/24 |
+| 3 | [太卜·塔罗](https://github.com/hhszzzz/taibu) | 塔罗 Tarot | 0.73 | 2.95 | 1 | 0 | 1 | 11/24 |
+| 4 | [Daman 塔罗](https://github.com/daman-ovo-0404/tarot-skill) | 塔罗 Tarot | 0.10 | 1.48 | 0 | 1 | 1 | 10/24 |
 
-**八字 BaZi**（6）
-[雪眠八字 xuemian168/bazi-skill](https://github.com/xuemian168/bazi-skill) ·
-[金辰八字 jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) ·
-[高鑫八字 gaoxin492/bazi-skill](https://github.com/gaoxin492/bazi-skill) ·
-[Suangua Sudo-Biao/suangua](https://github.com/Sudo-Biao/suangua) ·
-[命语 Brhiza/mingyu](https://github.com/Brhiza/mingyu) ·
-[Horosa Horace-Maxwell/horosa-skill](https://github.com/Horace-Maxwell/horosa-skill)
+**不用命理工具的对照**（不是被测项目）：
 
-**紫微斗数 Zi Wei Dou Shu**（2）
-[Wolke/ziwei-doushu](https://github.com/Wolke/ziwei-doushu) ·
-[命理大师 learnwithu/mingli-master](https://github.com/learnwithu/mingli-master)
+| 对照 | 准确分 /85 | 最终分 /100 | 大事对上 /46 | 方向说对 /37 | 方向说反 | 实际作答 |
+|---|---:|---:|---:|---:|---:|---:|
+| 全说好事 —— 固定四句话 | 32.05 | 40.26 | 19 | 18 | 9 | 24/24 |
+| 普通 AI —— 不加载任何 Skill | 0.00 | 0.00 | 0 | 0 | 0 | 0/24 |
 
-**八字＋紫微 BaZi + Zi Wei**（1）
-[AdrianBOM/bazi-ziwei-skill](https://github.com/AdrianBOM/bazi-ziwei-skill)
+「全说好事」的四句原话是：**会找到新工作／会开始恋爱／会进入新的学习阶段／钱会增加**。另有**错生日对照**（把出生资料换成另一个人的），用于检验回答是否真的跟着输入走，只做到 5 个婚恋案例，样本太小，不外推。
 
-**印度占星 Vedic Astrology**（1）
-[CNWU16/vedic-astro-skills](https://github.com/CNWU16/vedic-astro-skills)
+怎么读这几张表：
 
-**多体系：八字／紫微／奇门遁甲／六爻／塔罗**（1）
-[太卜 hhszzzz/taibu](https://github.com/hhszzzz/taibu) —— 八字、紫微、奇门、六爻、塔罗各列一行单独计分
-
-**塔罗 Tarot**（1）
-[daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill)
-
-对照组不是项目：**全说好事**（固定规则）、**普通 AI**（不加载任何 Skill）、**错生日**（把出生资料换成另一个人的）。未覆盖手相、风水、合婚，以及六爻、奇门的真实问事预测。
+- **准确分 /85** 只算对得上公开记录的部分（大事命中＋方向正确＋时间接近）；**最终分 /100** 另含具体性、错输入对照与可观察易用性。排名按准确分。
+- **大事对上 /46**：46 件待验证大事里，说得与公开记录相符的件数。**方向说对 /37**：事业／感情／学业／钱财四类中方向判断正确的次数；**方向说反**单独计罚。
+- 类别命中不等于年份完全准确；未命中不全是猜错，也包括遗漏和未作答。**普通 AI 对照没有给出任何判断**，它的零分不能用来反证命理工具有效。
+- 链接指向本轮实际读取的仓库，列出来**不等于推荐，也没有合作关系**。未覆盖手相、风水、合婚，以及六爻、奇门的真实问事预测（本轮问事组只做模拟咨询）。
 
 ## 怎么测
 
