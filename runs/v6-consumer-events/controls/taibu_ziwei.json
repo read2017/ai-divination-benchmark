@@ -1,0 +1,154 @@
+[
+  {
+    "case_id": "V01",
+    "control_source_case_id": "V07",
+    "window": [
+      2006,
+      2008
+    ],
+    "question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2006,
+        "event_text": "2006年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见天梁、擎羊；官禄见天同、文昌，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2006年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V07，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "control_source_case_id": "V06",
+    "window": [
+      2015,
+      2017
+    ],
+    "question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "control_source_case_id": "V07",
+    "window": [
+      2014,
+      2016
+    ],
+    "question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "2014年前后有一次收入或款项增加的机会，仍要看实际合同与现金流。",
+        "reason": "流年命宫落财帛、当年见化禄；财帛见天机、太阴；田宅见天魁。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2014年钱财。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V07，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "control_source_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；官禄见天府、文曲；财帛见天相、文昌，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "control_source_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；官禄见天府、文曲；财帛见天相、文昌，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

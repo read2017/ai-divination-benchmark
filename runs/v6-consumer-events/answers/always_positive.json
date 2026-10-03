@@ -1,0 +1,1058 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2007,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2007,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2007,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2007,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2016,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2016,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2016,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2016,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2015,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2015,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2015,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2015,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2017,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2017,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2017,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2017,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2017,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2017,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2017,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2017,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2017,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2017,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2017,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2017,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2014,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2014,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2014,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2014,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2014,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2014,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2016,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2016,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2016,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2016,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2018,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2018,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2018,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2018,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2014,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2014,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2014,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2020,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2020,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2020,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2020,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2022,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2022,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2012,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2012,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2012,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2012,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2021,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2021,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2021,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2021,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2008,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2008,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2008,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2008,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2022,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2022,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2019,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2019,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2019,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2019,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2014,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2014,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2014,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2022,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2022,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2008,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2008,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2008,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2008,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2006,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2006,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2006,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2006,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2022,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2022,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2022,
+        "event_text": "找到新工作",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "开始一段恋爱",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2022,
+        "event_text": "考上学校或进入新学习阶段",
+        "reason": "固定全向好规则，无命盘依据"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "收入或投资收益增加",
+        "reason": "固定全向好规则，无命盘依据"
+      }
+    ],
+    "plain_summary": "工作、感情、学业和钱财都会变好。",
+    "practical_advice": "先核实情况，再作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

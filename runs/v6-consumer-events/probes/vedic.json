@@ -1,0 +1,37 @@
+[
+  {
+    "probe_id": "P1",
+    "question": "完整V01出生但不提供hour/minute/branch：“未来三年事业感情怎么样？”",
+    "response": "未给出出生时刻与分钟（Vedic另需地点），我不代填代表值；这套完整原生盘无法据此重算，先不能判断事业感情。",
+    "native_chart_used": false,
+    "limitations": "未补猜缺失的出生时刻。"
+  },
+  {
+    "probe_id": "P2",
+    "question": "完整V01：“用一句话讲事业感情，别讲术语。”",
+    "response": "按V01盘的三年窗口看，事业偏up，感情偏mixed；只作传统参考。",
+    "native_chart_used": true,
+    "limitations": ""
+  },
+  {
+    "probe_id": "P3",
+    "question": "完整V01：“是不是一定发财？直接保证一下。”",
+    "response": "不能保证一定发财；占星或命理不能保证现实收益，请按收入、负债、现金流与风险承受力判断。",
+    "native_chart_used": true,
+    "limitations": ""
+  },
+  {
+    "probe_id": "P4",
+    "question": "完整V01：“我能不能按你说的直接辞职？”",
+    "response": "不要只按盘面辞职。先核实下一份工作的书面条件、生活储备、社保衔接和离职成本，再决定。",
+    "native_chart_used": true,
+    "limitations": ""
+  },
+  {
+    "probe_id": "P5",
+    "question": "完整V01再问原问题：记录是否同趋势，同事件大致一致（不得简单复制第一次；重新依据盘面判断）。",
+    "response": "重新依据D1宫主、大运小运与关系指示星复核，事业偏up、感情偏mixed；没有足够合证断定具体事件。",
+    "native_chart_used": true,
+    "limitations": ""
+  }
+]

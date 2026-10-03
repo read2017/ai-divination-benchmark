@@ -1,0 +1,545 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2008,
+        "event_text": "后段工作安排可能收缩或改组，宜先稳住手头职责。",
+        "reason": "上六世子孙动化官鬼且化绝，坤变剥，见收缩压力但不足断失业。"
+      }
+    ],
+    "plain_summary": "整体先求稳，后段事业有收紧、责任加重的迹象；感情、学业和钱财的具体事件盘面不足以定。",
+    "practical_advice": "避免在压力下贸然离职，先确认岗位和现金安排。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "change",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "工作内容或职责有调整，较像重新分工，未必升职。",
+        "reason": "世爻妻财未土动化父母子水，豫变震，事情转向文书/职责变更。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2017,
+        "event_text": "学习或考试计划容易被手续、安排拖慢。",
+        "reason": "世爻化父母，父母代表文书学习；变卦震有动而未见明显助力。"
+      }
+    ],
+    "plain_summary": "三年里工作安排有变动，学习计划可能受手续或时间安排牵制；感情和财务没有足够证据断具体事件。",
+    "practical_advice": "重要调整先落实书面条件，给学习留出缓冲。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2015,
+        "event_text": "原定学习进度可能延后，临近收尾仍需补课或补材料。",
+        "reason": "世爻子孙戌土动而动空，变未济；父母爻寅木暗动，事情未收束。"
+      }
+    ],
+    "plain_summary": "盘面有“未济”与动空，事情推进不够利落；学习进度较易延迟，其他领域难据此断成具体事件。",
+    "practical_advice": "把阶段目标拆小，及时补齐资料和基础内容。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2018,
+        "event_text": "某项手续、课程或项目的收尾可能拖延。",
+        "reason": "应爻父母辰土动化丑土退神，初爻子孙暗动，显示收尾放慢。"
+      }
+    ],
+    "plain_summary": "整体以守成居多，学习或文书项目后段有拖延；没有明显证据支持工作、感情或财务的大变。",
+    "practical_advice": "提前处理申请、合同和结项材料。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2018,
+        "event_text": "财务上要留意一笔支出或回款不如预期。",
+        "reason": "妻财子水暗动，卦变剥；应爻子孙申金动空化官鬼，助力不稳。"
+      }
+    ],
+    "plain_summary": "有一项钱款或支出需要谨慎，事业、感情、学业没有清晰事件可断。",
+    "practical_advice": "不替人担保，也不要把未到账的钱先安排出去。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": null,
+        "event_text": "工作方向可能出现调整，但变动结果暂时落不实。",
+        "reason": "官鬼未土动化戌土入墓，革变同人；世爻兄弟旺静，变动受团队因素牵制。"
+      }
+    ],
+    "plain_summary": "工作有调整的念头或外部变化，落实程度不明；其余三域看不出足够具体的起落。",
+    "practical_advice": "先谈清职责、薪酬和期限，再决定是否换岗。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2014,
+        "event_text": "一笔收入或款项可能延迟、缩减，尤其别过早当作到手。",
+        "reason": "妻财子水旺而动化父母巳火绝，渐卦虽渐进，财爻动化不利。"
+      }
+    ],
+    "plain_summary": "工作总体偏稳，钱款有延迟或缩水的信号；感情和学业不宜勉强具体化。",
+    "practical_advice": "收支安排按已到账金额计算。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2015,
+        "event_text": "预期款项易有变数，实际到账可能低于原先打算。",
+        "reason": "世爻子孙午火日破，上六妻财戌土动空化退；无妄变随。"
+      }
+    ],
+    "plain_summary": "盘面主要提示财务预期不稳，暂不足以断工作、感情或学业发生明确事件。",
+    "practical_advice": "减少高风险借贷和临时垫款。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2016,
+        "event_text": "证件、合同或学习材料可能反复补充，收尾较慢。",
+        "reason": "世爻父母未土动化戌土入墓；兑变履，文书事务有压住、延后的象。"
+      }
+    ],
+    "plain_summary": "工作上压力或责任感偏重，但未到能断失业的程度；文书学习事项较容易拖慢。",
+    "practical_advice": "重要文件留副本，预留补件时间。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2018,
+        "event_text": "合作或共同支出可能增加，净到手的钱不如预想。",
+        "reason": "应爻兄弟酉金动化申金退，财爻卯木静；萃变豫，需防合伙分耗。"
+      }
+    ],
+    "plain_summary": "三年内更像围绕团队、合作关系作调整，钱财方面要防共同支出；感情、学业证据有限。",
+    "practical_advice": "合作前把分账和退出办法写清楚。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2014,
+        "event_text": "工作或合作上的责任可能短暂变化，随后趋于停顿。",
+        "reason": "应爻官鬼戌土动化兄弟亥水且化绝、动空，屯变复，起步受阻。"
+      }
+    ],
+    "plain_summary": "工作事项有起步受阻、反复的信号，不能据此断成失业；其余领域没有清晰事件。",
+    "practical_advice": "先争取明确分工，避免只凭口头承诺投入。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2020,
+        "event_text": "学习、手续或合同事务会有反复，但有人/材料补上后能继续。",
+        "reason": "六四兄弟未土动化父母午火回头生，渐变遯；父母爻静且空。"
+      }
+    ],
+    "plain_summary": "外部节奏偏慢，文书学习事务可能反复；没有足够依据断关系或钱财的确定变化。",
+    "practical_advice": "把关键文件和截止日期列出来逐项确认。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2022,
+        "event_text": "课程、考试或手续进度有拖延，需重新协调安排。",
+        "reason": "九四父母午火动化兄弟未土；应爻官鬼卯木暗动冲空，履变中孚。"
+      }
+    ],
+    "plain_summary": "当前格局偏谨慎，学习和手续有协调、等待之象；事业和关系未见足够明确的事件信号。",
+    "practical_advice": "不要把未确认的安排当成最终结果。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2012,
+        "event_text": "家庭或同伴相关开销可能增加，留存的钱变少。",
+        "reason": "世爻兄弟未土动化父母午火回头生，兄弟持世且中孚变履。"
+      }
+    ],
+    "plain_summary": "主要是资源分配与身边事务带来牵制，不能判作严重财务损失；其余方面无明确事件。",
+    "practical_advice": "给共同开支设上限，避免替他人承担长期费用。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2021,
+        "event_text": "额外支出或与他人分摊的费用值得留意。",
+        "reason": "世爻官鬼丑土静，兄弟亥水旺，父母酉金动化子孙寅木绝；明夷转贲。"
+      }
+    ],
+    "plain_summary": "工作责任不轻但盘面没有明确丢工作的信号；钱财更需防额外支出，关系、学习不宜硬断。",
+    "practical_advice": "先留应急金，再考虑大额消费。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2008,
+        "event_text": "学习/工作安排可能有一次变化，但落实时会碰到阻力。",
+        "reason": "世爻子孙辰土动空化父母卯木回头克；旅变离，动中受制。"
+      }
+    ],
+    "plain_summary": "容易因安排变化而暂时不安定，盘面不足以具体判断关系、学习成果或财务得失。",
+    "practical_advice": "先确认新安排可持续，再投入时间和费用。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "团队或岗位分工可能调整，短期需要适应。",
+        "reason": "世爻兄弟申金动化子孙亥水，蹇变咸；两兄弟同现，团队因素突出。"
+      }
+    ],
+    "plain_summary": "有阻滞后逐步转圜的走势，工作协作可能变化；没有明确失业、分手或财务大事证据。",
+    "practical_advice": "用协商和明确分工化解反复。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2019,
+        "event_text": "团队关系或工作分工可能调整，调整后事情较易松动。",
+        "reason": "初爻兄弟寅木动化子孙巳火，解变归妹；世爻妻财辰土静。"
+      }
+    ],
+    "plain_summary": "工作环境中有人员协作变化，整体像逐步解开卡点；感情、学业、财务具体事件证据不足。",
+    "practical_advice": "对协作变化先沟通职责，不急于推断关系结果。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "卦变归妹且世爻子孙日破，动爻落在父母而不直接触发四域明确事项；三年尺度下无法可靠指出具体事件。",
+    "practical_advice": "把重要选择建立在现实信息上，盘面不宜代替核实。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2022,
+        "event_text": "财务上可能出现预期落空或一笔款项未按计划落实。",
+        "reason": "妻财辰土动化父母亥水且化绝，颐变贲；财爻动而去。"
+      }
+    ],
+    "plain_summary": "卦象偏向谨慎分配资源，收入变化的具体方式不明；其他领域缺少可落地的事件证据。",
+    "practical_advice": "大额付款前核对交付和退款条件。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "豫变萃，官鬼申金动化酉金进神但不临世应；看起来是外部事务增强，仍不足以断个人升职、失业或关系事件。",
+    "practical_advice": "把握已确定的机会，具体承诺以书面信息为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change_failed",
+        "year": 2006,
+        "event_text": "一项工作或项目推进可能遇阻，谈得热闹但落地不顺。",
+        "reason": "兄弟亥水动化官鬼辰土入墓，丰变震，官鬼静；有热闹转受限之象。"
+      }
+    ],
+    "plain_summary": "事务起伏较明显，适合谨慎推进；关系、学习、金钱缺少直接而有力的变化指示。",
+    "practical_advice": "重要项目分阶段验收，别一次性压上资源。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "工作责任或协作方式可能调整，调整会带来一阵压力。",
+        "reason": "官鬼午火动化兄弟酉金，困变大过；世爻妻财寅木空，动爻有制约。"
+      }
+    ],
+    "plain_summary": "处在受限、负担偏重的格局，工作安排可能变化，但不足以断失业；感情、学业和财务无明确事件。",
+    "practical_advice": "先降低同时承担的事项，关键要求尽量书面确认。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2022,
+        "event_text": "钱财上更适合保守，避免因人情或共同项目多投入。",
+        "reason": "世爻官鬼寅木空，兄弟辰土动化丑土退；大畜变损。"
+      }
+    ],
+    "plain_summary": "整体偏积累与收敛，额外投入可能压缩可用资金；其他领域没有足够明确的事件支持。",
+    "practical_advice": "优先储蓄，合作支出设定明确上限。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

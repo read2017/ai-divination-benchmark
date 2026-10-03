@@ -1,0 +1,28 @@
+{
+  "case_id": "V05",
+  "birth": {
+    "calendar": "solar",
+    "year": 1989,
+    "month": 2,
+    "day": 25,
+    "hour": 2,
+    "minute": 30,
+    "sex": "female",
+    "place": "济宁",
+    "timezone": "UTC+08:00"
+  },
+  "calculator_solar_input": {
+    "year": 1989,
+    "month": 2,
+    "day": 25,
+    "hour": 2,
+    "minute": 30,
+    "sex": "female"
+  },
+  "window": [
+    2016,
+    2018
+  ],
+  "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+  "input_birth_used": "V06"
+}

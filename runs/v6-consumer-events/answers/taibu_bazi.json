@@ -1,0 +1,362 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丁卯、庚戌、壬辰、己酉，当前窗口仅能结合戊申运、丁未运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丙子、戊戌、戊戌、丁巳，当前窗口仅能结合丙申运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丁丑、辛亥、壬申、辛亥，当前窗口仅能结合己酉运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为乙亥、乙酉、戊辰、甲子，当前窗口仅能结合丁亥运、戊子运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为癸酉、辛酉、庚子、丙子，当前窗口仅能结合癸亥运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为己巳、丙寅、丙辰、己丑，当前窗口仅能结合己巳运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为壬申、丙午、癸亥、戊午，当前窗口仅能结合戊申运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为癸酉、壬戌、戊寅、乙卯，当前窗口仅能结合庚申运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为乙亥、戊子、壬辰、壬子，当前窗口仅能结合庚寅运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丙子、丁酉、戊辰、癸亥，当前窗口仅能结合乙未运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丙寅、戊戌、乙巳、戊寅，当前窗口仅能结合辛丑运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为辛未、戊戌、庚申、壬午，当前窗口仅能结合乙未运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为己巳、丙寅、己酉、丙寅，当前窗口仅能结合己巳运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为乙丑、己卯、己未、丁卯，当前窗口仅能结合壬午运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丁丑、丁未、癸酉、丙辰，当前窗口仅能结合乙巳运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丙寅、辛卯、乙卯、癸未，当前窗口仅能结合己丑运、戊子运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为乙亥、乙酉、己酉、庚午，当前窗口仅能结合壬午运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为乙丑、戊寅、戊寅、癸丑，当前窗口仅能结合甲戌运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丙辰、丙申、戊午、庚申，当前窗口仅能结合庚子运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为戊寅、辛酉、戊辰、己未，当前窗口仅能结合癸亥运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为丁未、辛亥、乙未、丁丑，当前窗口仅能结合丁未运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为壬戌、丙午、甲申、辛未，当前窗口仅能结合己酉运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为己卯、庚午、辛亥、丁酉，当前窗口仅能结合戊辰运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "本命四柱为庚辰、己丑、辛巳、乙未，当前窗口仅能结合辛卯运看长期底色。该原生接口只有本命与大运信息，没有可用的年度预测接口，无法诚实断出这三年具体升职、分合、入学或财务事件。",
+    "practical_advice": "把它当长期倾向参考；具体决定仍以职位、关系、学业安排和收支事实为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

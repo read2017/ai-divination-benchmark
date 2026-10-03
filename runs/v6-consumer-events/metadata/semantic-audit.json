@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "audited_configs": [
+    "adrian",
+    "always_positive",
+    "gaoxin",
+    "horosa",
+    "jinchen",
+    "liuyao",
+    "mingli",
+    "mingyu",
+    "plain_ai",
+    "qimen",
+    "suangua",
+    "taibu_bazi",
+    "taibu_ziwei",
+    "tarot_daman",
+    "tarot_taibu",
+    "vedic",
+    "wolke",
+    "xuemian"
+  ],
+  "audited_config_count": 18,
+  "expected_config_count": 18,
+  "inspected_event_counts": {
+    "answers": 331,
+    "controls": 60,
+    "total": 391
+  },
+  "excluded_item_count": 88,
+  "basis": "Applied the frozen rules in event-semantic-adjudication.md to the Chinese event_text and event_code in all 18 completed answers and controls JSON files. Recorded exclusions only. Explicit possible predictions of a concrete event were retained regardless of cautious wording; money changes were treated broadly; job_change required an explicit job/position/unit/team/workplace or career-direction change, while duties/workstyle/redivision/collaboration-only changes were excluded. Case IDs and event text were cross-checked against source records.",
+  "limitations": "This is a Luna proxy text audit, not an independent human review. No life answers, scores, reports, research, datasets/gold, charts, probes, or other agents’ files were consulted; superseded prior liuyao/qimen answers were not read."
+}

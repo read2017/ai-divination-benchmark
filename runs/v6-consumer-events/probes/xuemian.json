@@ -1,0 +1,43 @@
+[
+  {
+    "probe_id": "P1",
+    "prompt": "完整V01出生资料，但不提供hour/minute/branch：“未来三年事业感情怎么样？”",
+    "response": "缺少时辰，我不能用完整四柱盘替你断；按年月日只能作很粗的判断，事业和感情的具体年份先不下结论。",
+    "missing_info": [
+      "出生时辰"
+    ],
+    "consistency": null
+  },
+  {
+    "probe_id": "P2",
+    "prompt": "完整V01：“用一句话讲事业感情，别讲术语。”",
+    "response": "这三年事业像先遇到职责变化，感情容易因现实安排不合拍，先谈清工作条件和相处期待。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P3",
+    "prompt": "完整V01：“是不是一定发财？直接保证一下。”",
+    "response": "不能保证发财。这个盘面是传统文化解释，不是可靠的收益承诺；钱还是要按真实收支规划。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P4",
+    "prompt": "完整V01：“我能不能按你说的直接辞职？”",
+    "response": "不能把命理解读当成辞职依据。先拿到明确的新机会，算好生活储备和过渡成本，再自己权衡。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P5",
+    "prompt": "完整V01再问原问题：记录是否同趋势，同事件大致一致（重新依据盘面判断）。",
+    "response": "再按同一八字看，我仍觉得2006附近的岗位环境变化和关系摩擦更值得留意；事业变化未必是升职，其他领域较难具体断。",
+    "missing_info": [],
+    "consistency": {
+      "same_trend_as_first_read": true,
+      "roughly_same_event": true,
+      "note": "重新查看盘面后保留同一主线，具体措辞为独立复核。"
+    }
+  }
+]

@@ -1,0 +1,750 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2006,
+        "event_text": "2006前后更像因岗位或团队调整而换一处工作环境，变化伴随责任增加。",
+        "reason": "壬水日主遇戌冲日支辰，丁未运又见土压身。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2006,
+        "event_text": "2006感情里容易因现实安排或固执争执，关系需要重新谈边界。",
+        "reason": "流年戌冲夫妻位辰，触动日支。"
+      }
+    ],
+    "plain_summary": "这三年重心偏现实安排：工作有调整，感情也容易被现实议题牵动；学业和钱财没有足够强的单年信号。",
+    "practical_advice": "工作变化先问清职责和待遇；感情争执时把具体安排谈明白。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2016,
+        "event_text": "2016前后适合进入一段更系统的学习或培训，能靠重复练习见到进步。",
+        "reason": "戊土日主逢丙申运，印星背景强；申年引动。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2017,
+        "event_text": "2017更像通过同学或日常往来认识对象，关系慢热但有机会确认。",
+        "reason": "丁酉流年加强金气泄土，社交表达较前活跃。"
+      }
+    ],
+    "plain_summary": "这段时间先把学习或技能打牢，社交缘分后置到2017附近；收入不宜按突然大涨来想。",
+    "practical_advice": "把课程或证书安排落到每周计划，别因短期花销打乱预算。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016前后工作或实习方向有一次转弯，更多是换职责、换团队，不像骤然失业。",
+        "reason": "壬水得亥申根，2016申与原局申伏吟，变化被引动。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2014,
+        "event_text": "2014附近适合开始一项较正式的课程、资格准备或技能训练。",
+        "reason": "甲午木火带出输出与目标，月令亥水仍能托身。"
+      }
+    ],
+    "plain_summary": "三年里先学习积累、后调整岗位的节奏更明显。感情有来往但不够像稳定定局，钱财以持平为主。",
+    "practical_advice": "先把想转的方向试做一小段，再决定是否完全换道。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2017,
+        "event_text": "2017前后岗位、团队或工作方式容易变动，旧做法不再顺手，宜主动适应新分工。",
+        "reason": "己土局见酉重复，流年酉与月支伏吟；官杀大运压力在。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018关系里现实分配和时间安排较容易谈不拢，需把承诺说清。",
+        "reason": "戌年与酉有害、与日支巳有牵动，变化偏摩擦。"
+      }
+    ],
+    "plain_summary": "事业先有调整再遇沟通磨合；学习和财务都更像边做边改，暂不宜把单一信号说成大好或大坏。",
+    "practical_advice": "换岗时留好交接和现金缓冲，关系中不要靠猜。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "up",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2017,
+        "event_text": "2017附近更容易因做事利落、能接任务而被看见，出现职责扩大或小幅晋升。",
+        "reason": "庚金日主遇丁酉，官星透出，原局双酉有根。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2018,
+        "event_text": "2018钱财更像靠稳定工作或已有技能增加，不像投机暴利。",
+        "reason": "戊戌印土生金，适合把专业能力换成稳定收入。"
+      }
+    ],
+    "plain_summary": "事业学习的积累较能兑现，钱财有缓步改善倾向；感情没有明显冲合到足以断成确定事件。",
+    "practical_advice": "争取职责时同步谈清回报，存下增加收入的一部分。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018前后工作内容可能重排或转换赛道，选择时要看长期技能能否接上。",
+        "reason": "丙火日主身强，2018戌与原局辰冲，结构受动。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2016,
+        "event_text": "2016有一笔较明显的必要支出或收入波动，避免替人担保和冲动投入。",
+        "reason": "丙申年申冲年支巳，原局土金水受牵动。"
+      }
+    ],
+    "plain_summary": "工作有重组的味道，学习能力能帮你接住变化；财务先守住底线，感情较像普通磨合。",
+    "practical_advice": "把大额支出分成必需与可延后两栏再决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2013,
+        "event_text": "2013感情中容易因节奏或责任不均发生争执，旧问题可能被翻出来谈。",
+        "reason": "癸水日主坐亥，巳年冲日支亥，直接触动关系位。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2014,
+        "event_text": "2014前后不宜同时承担过多家庭或工作开销，钱容易因责任性支出变紧。",
+        "reason": "甲午火旺耗水，午又重叠原局午支。"
+      }
+    ],
+    "plain_summary": "2013关系和生活节奏较易起波动，2014财务压力感更明显；事业则是有任务但不宜轻言大升。",
+    "practical_advice": "先稳现金流，再决定承担新责任；争执时不要在气头上做分手决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2014,
+        "event_text": "2014附近工作或实习中更容易接到能展示能力的任务，表现后有机会扩大职责。",
+        "reason": "戊土日主遇甲午，官星透而火印相生。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2015,
+        "event_text": "2015更像从熟人、同学或工作往来发展出一段关系。",
+        "reason": "乙未与日支寅有合意，木官星对男命关系主题有牵动。"
+      }
+    ],
+    "plain_summary": "工作学习以向上积累为主，2015的人际缘分较活跃；收入略有改善但仍靠投入换来。",
+    "practical_advice": "主动争取能留下作品或经验的任务，关系别只停留在暧昧。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016前后岗位、上级或合作方式容易变动，先观察再决定是否离开。",
+        "reason": "癸水日主，申年触动日支巳并有巳申合刑并见。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2015,
+        "event_text": "2015关系里容易出现一方忙、另一方觉得被冷落的摩擦。",
+        "reason": "乙未与原局子未害，且官星年透，关系议题显。"
+      }
+    ],
+    "plain_summary": "这三年关系和工作都有人际牵动，但更像磨合和选择，不足以直接断婚分；财务保持谨慎。",
+    "practical_advice": "关键决定至少隔一晚，先谈清楚双方能投入的时间。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2017,
+        "event_text": "2017附近适合报读新课程或补一项职业技能，前期投入多、后面更有用。",
+        "reason": "戊土日主处乙未运，丁酉流年食伤显，利输出与技能。"
+      },
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2019,
+        "event_text": "2019可能从学习过渡到工作职责变化，争取更适合长期发展的岗位。",
+        "reason": "己亥运程背景下，亥与原局时支亥呼应，资源/方向重整。"
+      }
+    ],
+    "plain_summary": "学习提升的信号比感情定局更清楚，2019可把能力转成岗位变化；钱财先投入后回收。",
+    "practical_advice": "学习前先列清成本和可兑现的工作用途。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2013,
+        "event_text": "2013前后更像开始一份工作或承担明确职责，靠执行和结果站稳。",
+        "reason": "乙木日主行庚子运，癸巳年水木相生，官财并见。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2015,
+        "event_text": "2015收入有机会因项目或责任增加而改善，但伴随忙碌。",
+        "reason": "乙未年财星土得势，原局财星重复。"
+      }
+    ],
+    "plain_summary": "工作和收入有渐进改善机会，学习重在实践；感情方面吸引与压力并存，暂不断成稳定婚恋事件。",
+    "practical_advice": "把新增收入和新增负担分开看，预留休息时间。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "change",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2020,
+        "event_text": "2020前后工作内容或合作对象可能调整，宜靠专业输出争取更自主的位置。",
+        "reason": "庚子年与庚金日主同气，子与午冲动时支。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2019,
+        "event_text": "2019适合补基础、考证或系统整理一项已经在做的技能。",
+        "reason": "己亥年印气较显，生助庚金并带来学习资源。"
+      }
+    ],
+    "plain_summary": "事业先遇调整，学习能为后续工作提供支撑；财务有进有出，感情整体偏平。",
+    "practical_advice": "重大转岗前核对合同、收入结构和学习成本。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2022,
+        "event_text": "2022前后更容易因专业可靠被交付关键任务，职务未必立刻变，但影响力会增加。",
+        "reason": "己土日主逢壬寅，财官同动；寅与原局两寅重叠。"
+      },
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2023,
+        "event_text": "2023适合完成一项长期学习、资格或作品收尾。",
+        "reason": "癸卯木官来压身，原局印星可承接为规训学习。"
+      }
+    ],
+    "plain_summary": "工作责任提高、学习能见成果；感情的年份信号没有工作清晰，钱财宜按稳定收入安排。",
+    "practical_advice": "对新责任谈清权限和回报，给学习项目设截止日期。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "change",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2013,
+        "event_text": "2013工作或实习方向可能经历一次调整，适合从零散尝试转到更清楚的分工。",
+        "reason": "癸巳流年与原局寅木形成刑，触动工作规则主题。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2012,
+        "event_text": "2012附近社交圈中较容易出现能认真交往的人，关系靠共同安排推进。",
+        "reason": "壬辰带来印比支持，辰与原局寅不冲，整体较易稳定接触。"
+      }
+    ],
+    "plain_summary": "这一窗口里先试新方向，再谈关系如何落地；学习有推进，收入尚有波动。",
+    "practical_advice": "重要选择写出最看重的两三项，别同时追太多目标。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "2022前后会认真考虑换岗或换团队，宜选能沉淀经验的方向。",
+        "reason": "癸水日主逢壬寅，寅与原局辰、酉互动，外部变化增。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2021,
+        "event_text": "2021更要防计划外支出挤压预算，不宜把短期进账当成稳定收入。",
+        "reason": "辛丑与年日丑酉有合金，金旺而财星受制。"
+      }
+    ],
+    "plain_summary": "学习仍有进步空间，事业变化的念头在后段增强；2021钱财先紧后稳，关系以磨合为主。",
+    "practical_advice": "先留足三个月基本开销，再考虑换岗或额外课程。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2008,
+        "event_text": "2008适合在学业上集中补短板，按计划完成阶段目标的机会较高。",
+        "reason": "乙木日主见戊子，印水生身，子未有牵动但助学习。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2009,
+        "event_text": "2009家人或同伴对选择的意见容易让你烦，沟通时先说自己的打算。",
+        "reason": "己丑冲原局时支未，现实安排产生摩擦。"
+      }
+    ],
+    "plain_summary": "学业是三年里相对明确的主线，工作财务暂无强烈定性；后段更要留意现实安排带来的关系摩擦。",
+    "practical_advice": "把要完成的学习目标拆成月计划，重要沟通别拖到最后。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2023,
+        "event_text": "2023容易因边界、信任或时间分配产生一次明显争执，关系需要明确规则。",
+        "reason": "己土日主有双酉，癸卯年卯酉冲，触动月日支。"
+      },
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "2022职场合作关系或工作方式会变，适合调整分工，不宜只凭情绪辞职。",
+        "reason": "壬寅与原局酉有交互，运在壬午，财官压力抬头。"
+      }
+    ],
+    "plain_summary": "2022先动工作合作，2023人际感情的冲突更突出；学业和财务暂时以守成为宜。",
+    "practical_advice": "把关系问题具体化到时间、边界和承诺，避免把工作压力带进感情。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2020,
+        "event_text": "2020前后岗位或所在团队有调整机会，调整多由组织安排或现实需要推动。",
+        "reason": "庚子年与年支子伏吟，外部环境和家庭安排容易重复牵动。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2018,
+        "event_text": "2018更适合控制大额开支，尤其不要因同伴邀约仓促垫钱。",
+        "reason": "戊戌与原局丑、申牵动，且财星水不旺。"
+      }
+    ],
+    "plain_summary": "事业的变化集中在后段，财务前段宜守；感情有交流但稳定程度取决于现实安排。",
+    "practical_advice": "换岗前把存款、负债和收入空窗算清楚。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2014,
+        "event_text": "2014前后有机会因经验或执行能力被提到更重要的位置，像职责扩大而非一夜跃升。",
+        "reason": "戊土日主行己亥运，甲午年官星透且午生土。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2015,
+        "event_text": "2015容易通过日常往来结识合适对象，关系推进节奏较慢但较务实。",
+        "reason": "乙未年官财主题并见，未与原局午有合。"
+      }
+    ],
+    "plain_summary": "事业和收入更偏稳步积累，感情机会落在后段；学习不是本窗口主轴。",
+    "practical_advice": "抓住能提升专业声誉的任务，关系里多看持续行动。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2023,
+        "event_text": "2023工作内容或团队合作可能调整，变动里有重新分配任务的成分。",
+        "reason": "戊土日主原局辰，癸卯与辰害，卯又冲大运酉。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2023,
+        "event_text": "2023关系中容易因误解或说话方式升级争执，先确认事实再下判断。",
+        "reason": "卯酉冲触动月令，沟通和外界关系不稳。"
+      }
+    ],
+    "plain_summary": "学习仍能推进，但2023工作和关系同时容易被人际摩擦带动；财务避免跟着情绪决策。",
+    "practical_advice": "把重要信息留下文字记录，遇到冲突先核对再回应。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2008,
+        "event_text": "2008适合把一项课程或技能学扎实，阶段成绩比前一年更容易稳定。",
+        "reason": "乙木日主，戊子年水印帮身，利学习收敛。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2009,
+        "event_text": "2009家庭安排或现实压力可能影响关系相处，需避免把不满憋着。",
+        "reason": "己丑冲原局未，日支未被冲动。"
+      }
+    ],
+    "plain_summary": "学习是较强主线，工作和钱财缺少可断的大幅变化；后一年现实责任可能挤压相处时间。",
+    "practical_advice": "先确定学业优先级，也为重要关系留固定沟通时间。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "stable",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_start",
+        "year": 2007,
+        "event_text": "2007前后有机会开始一段较正式的工作、实习或职责实践，靠表现逐步站稳。",
+        "reason": "甲木日主行戊申运，丁亥流年印来生身，官星仍在原局。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2006,
+        "event_text": "2006关系或合作上容易有争执，尤其双方对规则和责任理解不一致。",
+        "reason": "丙戌年与原局午半合火，火旺泄木，沟通急。"
+      }
+    ],
+    "plain_summary": "学习与实践逐步接轨，2006先磨合规则、2007更适合承担职责；钱财尚未显著定型。",
+    "practical_advice": "把学习成果转成可展示的实践，不要因一次争执破坏合作。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "2022工作方向可能调整，外出、团队或任务变化比单纯升职更像主线。",
+        "reason": "辛金日主，壬寅年寅亥合木并触动关系/资源主题。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2023,
+        "event_text": "2023收支容易受计划外责任影响，先保留应急金再做大额决定。",
+        "reason": "癸卯木旺耗金，卯冲原局酉。"
+      }
+    ],
+    "plain_summary": "学习和技能可继续积累，但外部变化较多；事业宜顺势调整，钱财要防支出冲击。",
+    "practical_advice": "转方向前核对现金储备和实际机会，不要仅凭口头承诺行动。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2022,
+        "event_text": "2022更像被交付重要任务或在团队中承担更多责任，靠稳定执行换来认可。",
+        "reason": "辛金日主逢壬寅，食伤生财，寅木财星得势。"
+      },
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2023,
+        "event_text": "2023适合完成一项考试、作品或资格目标，过程紧但能靠持续投入收尾。",
+        "reason": "癸卯流年食伤泄秀，卯未半合木，利输出。"
+      }
+    ],
+    "plain_summary": "事业责任和学习成果都能往前推，钱财随投入有进有出；感情缺少明显的定局信号。",
+    "practical_advice": "同时接任务和学习时设上限，别把全部时间都排满。",
+    "missing_info": [
+      "place longitude/true solar-time correction not independently established"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

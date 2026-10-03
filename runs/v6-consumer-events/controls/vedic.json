@@ -1,0 +1,117 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "Leo上升；窗口小运Venus/Saturn(2005-08-10至2008-10-10)、Venus/Mercury(2008-10-10至2011-08-11)。D1事业主Venus在11宫、AmKMercury；关系主Saturn/D",
+    "practical_advice": "把这段只当作阶段参考；决定换工作、投入资金或确立关系前，逐项核实现实机会、成本与双方共识。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V07",
+    "window": [
+      2006,
+      2008
+    ],
+    "question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料对应的原生控制盘，并保留原题窗口重新解读。",
+    "coordinate_disclosure": "替换盘沿用映射donor城市近似坐标，不代表精确出生地点。"
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "Scorpio上升；窗口小运Jupiter/Saturn(2014-04-06至2016-10-17)、Jupiter/Mercury(2016-10-17至2019-01-23)。D1事业主Sun在4宫、AmKMoon；关系主Venus/",
+    "practical_advice": "把这段只当作阶段参考；决定换工作、投入资金或确立关系前，逐项核实现实机会、成本与双方共识。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2015,
+      2017
+    ],
+    "question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料对应的原生控制盘，并保留原题窗口重新解读。",
+    "coordinate_disclosure": "替换盘沿用映射donor城市近似坐标，不代表精确出生地点。"
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "Leo上升；窗口小运Sun/Rahu(2013-12-04至2014-10-28)、Sun/Jupiter(2014-10-28至2015-08-17)、Sun/Saturn(2015-08-17至2016-07-29)、Sun/Mercu",
+    "practical_advice": "把这段只当作阶段参考；决定换工作、投入资金或确立关系前，逐项核实现实机会、成本与双方共识。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V07",
+    "window": [
+      2014,
+      2016
+    ],
+    "question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料对应的原生控制盘，并保留原题窗口重新解读。",
+    "coordinate_disclosure": "替换盘沿用映射donor城市近似坐标，不代表精确出生地点。"
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "Scorpio上升；窗口小运Jupiter/Saturn(2014-04-06至2016-10-17)、Jupiter/Mercury(2016-10-17至2019-01-23)。D1事业主Sun在4宫、AmKMoon；关系主Venus/",
+    "practical_advice": "把这段只当作阶段参考；决定换工作、投入资金或确立关系前，逐项核实现实机会、成本与双方共识。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料对应的原生控制盘，并保留原题窗口重新解读。",
+    "coordinate_disclosure": "替换盘沿用映射donor城市近似坐标，不代表精确出生地点。"
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "Scorpio上升；窗口小运Jupiter/Saturn(2014-04-06至2016-10-17)、Jupiter/Mercury(2016-10-17至2019-01-23)。D1事业主Sun在4宫、AmKMoon；关系主Venus/",
+    "practical_advice": "把这段只当作阶段参考；决定换工作、投入资金或确立关系前，逐项核实现实机会、成本与双方共识。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料对应的原生控制盘，并保留原题窗口重新解读。",
+    "coordinate_disclosure": "替换盘沿用映射donor城市近似坐标，不代表精确出生地点。"
+  }
+]

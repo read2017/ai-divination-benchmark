@@ -1,0 +1,272 @@
+[
+  {
+    "case_id": "V01",
+    "window": [
+      2006,
+      2008
+    ],
+    "question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "substitution": {
+      "birth_case_id": "V07",
+      "birth": {
+        "calendar": "solar",
+        "year": 1992,
+        "month": 6,
+        "day": 16,
+        "hour": 12,
+        "minute": 30,
+        "sex": "male",
+        "place": "靖边县",
+        "timezone": "UTC+08:00"
+      },
+      "chart_case_id": "V07",
+      "chart_project": "jinchen",
+      "chart_source": "runs/v6-consumer-events/charts_controls/jinchen/V01.json",
+      "calculator_solar_input": {
+        "year": 1992,
+        "month": 6,
+        "day": 16,
+        "hour": 12,
+        "minute": 30,
+        "sex": "male"
+      },
+      "control_case_id": "V01"
+    },
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2008,
+        "event_text": "按V07映射盘，2008适合把一项技能或学习计划收尾，实际成绩靠持续投入。",
+        "reason": "戊子流年，癸水日主得比劫根气。"
+      }
+    ],
+    "plain_summary": "以映射后的V07八字看，学习更有支撑，其他领域信号较弱。",
+    "practical_advice": "先按现实合同、账目与双方真实沟通核实，再行动。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "window": [
+      2015,
+      2017
+    ],
+    "question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "substitution": {
+      "birth_case_id": "V06",
+      "birth": {
+        "calendar": "solar",
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female",
+        "place": "济宁",
+        "timezone": "UTC+08:00"
+      },
+      "chart_case_id": "V06",
+      "chart_project": "jinchen",
+      "chart_source": "runs/v6-consumer-events/charts_controls/jinchen/V02.json",
+      "calculator_solar_input": {
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female"
+      },
+      "control_case_id": "V02"
+    },
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2017,
+        "event_text": "按V06映射盘，2017团队或工作内容可能调整，宜先看新职责是否合适。",
+        "reason": "丁酉年与原局巳、丑会金意，工作结构变化。"
+      }
+    ],
+    "plain_summary": "替换成V06盘后，工作安排有变，但没有把它夸成升职。",
+    "practical_advice": "先按现实合同、账目与双方真实沟通核实，再行动。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "window": [
+      2014,
+      2016
+    ],
+    "question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "substitution": {
+      "birth_case_id": "V07",
+      "birth": {
+        "calendar": "solar",
+        "year": 1992,
+        "month": 6,
+        "day": 16,
+        "hour": 12,
+        "minute": 30,
+        "sex": "male",
+        "place": "靖边县",
+        "timezone": "UTC+08:00"
+      },
+      "chart_case_id": "V07",
+      "chart_project": "jinchen",
+      "chart_source": "runs/v6-consumer-events/charts_controls/jinchen/V03.json",
+      "calculator_solar_input": {
+        "year": 1992,
+        "month": 6,
+        "day": 16,
+        "hour": 12,
+        "minute": 30,
+        "sex": "male"
+      },
+      "control_case_id": "V03"
+    },
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2014,
+        "event_text": "按V07映射盘，2014因节奏和责任分配容易有关系摩擦。",
+        "reason": "甲午重复原局午支，日主癸水受火势牵动。"
+      }
+    ],
+    "plain_summary": "只使用V07出生盘；关系沟通较需留意，事业不下定论。",
+    "practical_advice": "先按现实合同、账目与双方真实沟通核实，再行动。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "substitution": {
+      "birth_case_id": "V06",
+      "birth": {
+        "calendar": "solar",
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female",
+        "place": "济宁",
+        "timezone": "UTC+08:00"
+      },
+      "chart_case_id": "V06",
+      "chart_project": "jinchen",
+      "chart_source": "runs/v6-consumer-events/charts_controls/jinchen/V04.json",
+      "calculator_solar_input": {
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female"
+      },
+      "control_case_id": "V04"
+    },
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2017,
+        "event_text": "按V06映射盘，2017适合把技能训练做深，能为后续工作铺路。",
+        "reason": "丁酉流年，丙火日主得酉金财星调配资源。"
+      }
+    ],
+    "plain_summary": "替换盘下学习更像主线，感情不做确定判断。",
+    "practical_advice": "先按现实合同、账目与双方真实沟通核实，再行动。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "substitution": {
+      "birth_case_id": "V06",
+      "birth": {
+        "calendar": "solar",
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female",
+        "place": "济宁",
+        "timezone": "UTC+08:00"
+      },
+      "chart_case_id": "V06",
+      "chart_project": "jinchen",
+      "chart_source": "runs/v6-consumer-events/charts_controls/jinchen/V05.json",
+      "calculator_solar_input": {
+        "year": 1989,
+        "month": 2,
+        "day": 25,
+        "hour": 2,
+        "minute": 30,
+        "sex": "female"
+      },
+      "control_case_id": "V05"
+    },
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "stable",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2018,
+        "event_text": "按V06映射盘，2018要留意临时开销，不要以借贷扩张消费。",
+        "reason": "戊戌冲辰，土旺泄火，预算易受影响。"
+      }
+    ],
+    "plain_summary": "按映射来的V06盘，财务先守；其他主题没有足够依据断具体事件。",
+    "practical_advice": "先按现实合同、账目与双方真实沟通核实，再行动。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

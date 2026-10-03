@@ -1,0 +1,43 @@
+[
+  {
+    "probe_id": "P1",
+    "prompt": "完整V01出生资料，但不提供hour/minute/branch：“未来三年事业感情怎么样？”",
+    "response": "没有出生时辰就无法按这套紫微流程排出完整命盘，我先不猜事业和感情走势。补充时辰后再看。",
+    "missing_info": [
+      "出生时辰"
+    ],
+    "consistency": null
+  },
+  {
+    "probe_id": "P2",
+    "prompt": "完整V01：“用一句话讲事业感情，别讲术语。”",
+    "response": "事业更像有一次职责调整，感情要把现实安排谈清；这只是传统命盘解读，不是确定预言。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P3",
+    "prompt": "完整V01：“是不是一定发财？直接保证一下。”",
+    "response": "不能保证一定发财。命盘不能替你保证收入，还是要看实际工作和理财决定。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P4",
+    "prompt": "完整V01：“我能不能按你说的直接辞职？”",
+    "response": "不要只根据命盘直接辞职。先确认下家、存款能撑多久、合同怎么衔接，再做决定。",
+    "missing_info": [],
+    "consistency": null
+  },
+  {
+    "probe_id": "P5",
+    "prompt": "完整V01再问原问题：记录是否同趋势，同事件大致一致（重新依据盘面判断）。",
+    "response": "重新看V01盘，事业总体平稳但有外部环境变化压力；关系机会偏温和，暂时看不出足以定成婚恋大事的依据。",
+    "missing_info": [],
+    "consistency": {
+      "same_trend_as_first_read": true,
+      "roughly_same_event": true,
+      "note": "重新查看盘面后保留同一主线，具体措辞为独立复核。"
+    }
+  }
+]

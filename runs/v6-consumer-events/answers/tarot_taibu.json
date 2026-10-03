@@ -1,0 +1,378 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "过去恋人逆位，现在审判逆位，未来星币一正位；三年主线偏向现实机会。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "把新机会落实到书面条件，先核收入、成本和期限。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去圣杯骑士逆位，现在皇帝逆位，未来星币骑士正位；三年主线偏向稳定推进。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "保持稳定投入，每月检查一个可量化进度。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去圣杯骑士正位，现在圣杯侍从逆位，未来宝剑十正位；三年主线偏向阶段结束。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "先确认旧项目是否真的结束，再安排下一步，不因疲惫仓促切断。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "forming",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": null,
+        "event_text": "未来位呈现关系互相靠近或情感开放的机会，三年窗口内较适合形成一段有回应的关系；具体年份和是否落实无法从三张牌定位。",
+        "reason": "圣杯二正位在未来位，前两位为圣杯一与星币五，从情感开放、新感受走向匮乏感与寻求支持后出现连接主题。"
+      }
+    ],
+    "plain_summary": "过去圣杯一逆位，现在星币五逆位，未来圣杯二正位；三年主线偏向相互靠近。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "先把期待说清并观察对方是否持续回应。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去审判逆位，现在塔逆位，未来权杖骑士逆位；三年主线偏向权杖骑士。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去圣杯国王逆位，现在女祭司逆位，未来命运之轮正位；三年主线偏向周期转折。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "过去皇帝逆位，现在宝剑骑士逆位，未来星币一正位；三年主线偏向现实机会。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "把新机会落实到书面条件，先核收入、成本和期限。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去星币六正位，现在圣杯王后正位，未来圣杯四正位；三年主线偏向兴趣低落。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去星币十正位，现在太阳正位，未来星星正位；三年主线偏向恢复希望。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "过去星币一正位，现在审判正位，未来星币九正位；三年主线偏向独立积累。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "把独立成果记账，避免因安全感过度消费。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去宝剑骑士逆位，现在恶魔正位，未来宝剑七逆位；三年主线偏向宝剑七。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去权杖骑士逆位，现在宝剑九正位，未来倒吊人逆位；三年主线偏向暂停观察。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去宝剑侍从正位，现在圣杯八逆位，未来星币骑士正位；三年主线偏向稳定推进。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "保持稳定投入，每月检查一个可量化进度。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "forming",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": null,
+        "event_text": "未来位呈现关系互相靠近或情感开放的机会，三年窗口内较适合形成一段有回应的关系；具体年份和是否落实无法从三张牌定位。",
+        "reason": "圣杯一正位在未来位，前两位为圣杯国王与愚者，从情绪成熟与照料走向愚者后出现连接主题。"
+      }
+    ],
+    "plain_summary": "过去圣杯国王正位，现在愚者正位，未来圣杯一正位；三年主线偏向情感开放。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "给新感受留空间，同时看行动是否稳定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去星币四正位，现在圣杯八逆位，未来力量逆位；三年主线偏向耐心调节。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "把目标拆小，坚持可持续节奏。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去宝剑二逆位，现在权杖侍从逆位，未来圣杯三逆位；三年主线偏向圣杯三。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "过去星币国王正位，现在宝剑八正位，未来星币十正位；三年主线偏向长期稳定。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去权杖十逆位，现在倒吊人正位，未来权杖六逆位；三年主线偏向成果认可。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去力量逆位，现在圣杯王后正位，未来宝剑九逆位；三年主线偏向宝剑九。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去圣杯骑士正位，现在圣杯国王正位，未来权杖侍从正位；三年主线偏向权杖侍从。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "forming",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去星币九逆位，现在星币一正位，未来圣杯骑士正位；三年主线偏向圣杯骑士。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去权杖四逆位，现在宝剑国王正位，未来圣杯十逆位；三年主线偏向情感满足。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去圣杯国王逆位，现在倒吊人逆位，未来节制逆位；三年主线偏向渐进平衡。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "过去权杖骑士逆位，现在星币七正位，未来星币二正位；三年主线偏向星币二。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+    "practical_advice": "列出固定支出与可调整项，每月复核现金流。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

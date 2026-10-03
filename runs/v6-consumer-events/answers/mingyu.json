@@ -1,0 +1,422 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2006,
+        "event_text": "2006年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年丙戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "壬日主四柱丁卯 庚戌 壬辰 己酉；本窗流年2006丙戌/戊申运、2007丁亥/戊申运、2008戊子/丁未运。盘上见规则职责信号、财星收支信号，事业stable、感情forming、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱丙子 戊戌 戊戌 丁巳；本窗流年2015乙未/丙申运、2016丙申/丙申运、2017丁酉/丙申运。盘上见规则职责信号、印星学习支持信号，事业stable、感情mixed、学业advance、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "壬日主四柱丁丑 辛亥 壬申 辛亥；本窗流年2014甲午/己酉运、2015乙未/己酉运、2016丙申/己酉运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情conflict、学业stable、钱财mixed；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": "23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "up",
+      "relationship": "forming",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "庚日主四柱癸酉 辛酉 庚子 丙子；本窗流年2016丙申/癸亥运、2017丁酉/癸亥运、2018戊戌/癸亥运。盘上见规则职责信号、印星学习支持信号，事业up、感情forming、学业mixed、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "丙日主四柱己巳 丙寅 丙辰 己丑；本窗流年2016丙申/己巳运、2017丁酉/己巳运、2018戊戌/己巳运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2013,
+        "event_text": "2013年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年癸巳冲日支亥，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "癸日主四柱壬申 丙午 癸亥 戊午；本窗流年2013癸巳/戊申运、2014甲午/戊申运、2015乙未/戊申运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱癸酉 壬戌 戊寅 乙卯；本窗流年2013癸巳/庚申运、2014甲午/庚申运、2015乙未/庚申运。盘上见规则职责信号、财星收支信号，事业up、感情mixed、学业stable、钱财mixed；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": "23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "戊日主四柱丙子 丁酉 戊辰 癸亥；本窗流年2017丁酉/乙未运、2018戊戌/乙未运、2019己亥/乙未运。盘上见印星学习支持信号，事业stable、感情stable、学业mixed、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "乙日主四柱丙寅 戊戌 乙巳 戊寅；本窗流年2013癸巳/辛丑运、2014甲午/辛丑运、2015乙未/辛丑运。盘上见印星学习支持信号，事业stable、感情stable、学业mixed、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "庚日主四柱辛未 戊戌 庚申 壬午；本窗流年2019己亥/乙未运、2020庚子/乙未运、2021辛丑/乙未运。盘上见印星学习支持信号，事业stable、感情stable、学业mixed、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2023,
+        "event_text": "2023年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年癸卯冲日支酉，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "己日主四柱己巳 丙寅 己酉 丙寅；本窗流年2021辛丑/己巳运、2022壬寅/己巳运、2023癸卯/己巳运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情stable、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "己日主四柱乙丑 己卯 己未 丁卯；本窗流年2011辛卯/壬午运、2012壬辰/壬午运、2013癸巳/壬午运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情stable、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "癸日主四柱丁丑 丁未 癸酉 丙辰；本窗流年2020庚子/乙巳运、2021辛丑/乙巳运、2022壬寅/乙巳运。盘上见印星学习支持信号，事业stable、感情stable、学业advance、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "乙日主四柱丙寅 辛卯 乙卯 癸未；本窗流年2007丁亥/己丑运、2008戊子/戊子运、2009己丑/戊子运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情stable、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "mixed",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2023,
+        "event_text": "2023年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年癸卯冲日支酉，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "己日主四柱乙亥 乙酉 己酉 庚午；本窗流年2021辛丑/壬午运、2022壬寅/壬午运、2023癸卯/壬午运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情forming、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱乙丑 戊寅 戊寅 癸丑；本窗流年2018戊戌/甲戌运、2019己亥/甲戌运、2020庚子/甲戌运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱丙辰 丙申 戊午 庚申；本窗流年2013癸巳/庚子运、2014甲午/庚子运、2015乙未/庚子运。盘上见规则职责信号、财星收支信号，事业up、感情mixed、学业stable、钱财mixed；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "mixed",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱戊寅 辛酉 戊辰 己未；本窗流年2021辛丑/癸亥运、2022壬寅/癸亥运、2023癸卯/癸亥运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情forming、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "mixed",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2009,
+        "event_text": "2009年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年己丑冲日支未，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "乙日主四柱丁未 辛亥 乙未 丁丑；本窗流年2007丁亥/丁未运、2008戊子/丁未运、2009己丑/丁未运。盘上见财星收支信号、食伤表达变化信号，事业mixed、感情forming、学业stable、钱财up；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "甲日主四柱壬戌 丙午 甲申 辛未；本窗流年2005乙酉/己酉运、2006丙戌/己酉运、2007丁亥/己酉运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "辛日主四柱己卯 庚午 辛亥 丁酉；本窗流年2021辛丑/戊辰运、2022壬寅/戊辰运、2023癸卯/戊辰运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "辛日主四柱庚辰 己丑 辛巳 乙未；本窗流年2021辛丑/辛卯运、2022壬寅/辛卯运、2023癸卯/辛卯运。盘上见食伤表达变化信号，事业mixed、感情stable、学业stable、钱财stable；仅为传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

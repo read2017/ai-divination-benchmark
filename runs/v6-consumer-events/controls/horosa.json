@@ -1,0 +1,128 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "癸日主四柱壬申 丙午 癸亥 戊午；本窗流年2006丙戌、2007丁亥、2008戊子。盘上见官杀职责、财星收支，事业stable、感情forming、学业stable、钱财up；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V07",
+    "window": [
+      2006,
+      2008
+    ],
+    "question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料的原生控制盘、原题窗口重新解读。"
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "丙日主四柱己巳 丙寅 丙辰 己丑；本窗流年2015乙未、2016丙申、2017丁酉。盘上见印星学习，事业stable、感情stable、学业mixed、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2015,
+      2017
+    ],
+    "question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料的原生控制盘、原题窗口重新解读。"
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "癸日主四柱壬申 丙午 癸亥 戊午；本窗流年2014甲午、2015乙未、2016丙申。盘上见财星收支、食伤表达，事业mixed、感情conflict、学业stable、钱财mixed；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V07",
+    "window": [
+      2014,
+      2016
+    ],
+    "question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料的原生控制盘、原题窗口重新解读。"
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "丙日主四柱己巳 丙寅 丙辰 己丑；本窗流年2016丙申、2017丁酉、2018戊戌。盘上见食伤表达，事业mixed、感情stable、学业stable、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料的原生控制盘、原题窗口重新解读。"
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "丙日主四柱己巳 丙寅 丙辰 己丑；本窗流年2016丙申、2017丁酉、2018戊戌。盘上见食伤表达，事业mixed、感情stable、学业stable、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": "",
+    "control_chart_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "按替换出生资料的原生控制盘、原题窗口重新解读。"
+  }
+]

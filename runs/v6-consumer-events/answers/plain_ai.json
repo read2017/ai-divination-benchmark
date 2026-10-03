@@ -1,0 +1,530 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2006—2008年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "把当时的工作、学习和关系状态补齐后再做判断；不要据出生时间辞职或借钱。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2015—2017年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "若处在升学或初入职阶段，优先比较真实录取、岗位和成本，不用生日推断结果。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2014—2016年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "把考试计划、已取得的成绩和家庭预算列出来，再决定投入方向。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2016—2018年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "回看当时实际的学业与工作安排；如需选择，以可核实条件和备选方案为准。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2016—2018年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "先盘点收入、固定支出和债务，再评估任何大额消费或投资。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2016—2018年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "若正在考虑换工作，先确认新岗位、薪酬和离职安排，别把出生资料当依据。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2013—2015年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "把学习、实习或就业的现实进度列清，设一个可调整的短期目标。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2013—2015年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "关系决定以双方沟通和具体行为为准，遇到分歧先明确需求与边界。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2015—2017年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "先确认自身在读书还是工作及其计划；年龄只能提供很宽的背景。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2017—2019年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "记录实际收入与必要开支，用应急储蓄和预算管理财务风险。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2013—2015年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "如果有转岗或创业打算，先核实资金、责任和退路，不能依靠生日预测。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2019—2021年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "把工作和关系中的具体选择拆成可核实的小步骤，避免一次性押注。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2021—2023年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "对照当时的职业与家庭责任安排时间，重大决定先与相关人沟通。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2011—2013年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "补充当时的工作、学业和关系状态后再判断，单凭生日无法选出事件。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2020—2022年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "若仍在学习或刚进入职场，优先完成眼前的课程、技能或岗位目标。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2007—2009年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "以当时是否在读、就业及其现实压力来安排下一步，不以生日作结论。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2021—2023年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "若面临工作或关系选择，分别写下可观察事实、风险和可逆的试行方案。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2018—2020年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "先核对当时收入、家庭责任与健康状况，再决定工作和财务安排。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2013—2015年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "按实际工作职责、收入来源和家庭安排制定计划；出生信息无法替代这些事实。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2021—2023年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "若处在升学或职业起步阶段，先比较可获得的机会、成本和时间要求。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2007—2009年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "结合当时的工作阶段与家庭财务状况安排预算，避免将年龄当成事件证据。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2005—2007年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "先确认当时的职业阶段和家庭责任，再以具体预算与备选方案决策。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2021—2023年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "如果当时正在读书或初入职场，制定可执行的学习或求职计划，并按进展调整。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "仅凭出生年月日和时间，无法可靠推断2021—2023年会发生的具体事业、感情、学业或钱财事件；我没有查证本人经历，也没有命盘资料。年龄只能提示可能处于不同生活阶段，不能支持事件预测。",
+    "practical_advice": "比较真实的学习、就业和支出情况；不要把大额承诺建立在预测上。",
+    "missing_info": [
+      "当时实际的职业/在读状态",
+      "关系现状与本人计划",
+      "收入、支出及家庭责任"
+    ],
+    "followup_questions": [
+      "当时在读书、就业还是其他状态？",
+      "你最希望优先判断哪个方面？"
+    ],
+    "abstain_reason": "普通AI不能从出生资料推算具体事件；没有本人背景资料，故不编造事件或年份。"
+  }
+]

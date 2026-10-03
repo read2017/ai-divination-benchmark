@@ -1,0 +1,173 @@
+[
+  {
+    "case_id": "V01",
+    "control_source_case_id": "V07",
+    "window": [
+      2006,
+      2008
+    ],
+    "question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2008,
+        "event_text": "2008年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年子冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为丁未；较明确的窗口落在2008年事业。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V07，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "control_source_case_id": "V06",
+    "window": [
+      2015,
+      2017
+    ],
+    "question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年申冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为己巳；较明确的窗口落在2016年事业。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "control_source_case_id": "V07",
+    "window": [
+      2014,
+      2016
+    ],
+    "question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为戊申；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V07，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "control_source_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年申冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年戌冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为己巳；较明确的窗口落在2016年事业、2018年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "control_source_case_id": "V06",
+    "window": [
+      2016,
+      2018
+    ],
+    "question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年申冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年戌冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为己巳；较明确的窗口落在2016年事业、2018年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "出生输入及原生盘按control-mapping映射至V06，仍保留原case题目与年份。",
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

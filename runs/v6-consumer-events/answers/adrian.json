@@ -1,0 +1,520 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2006,
+        "event_text": "2006年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年戌冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；较明确的窗口落在2006年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为丙申；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。八字大运为己酉；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "change",
+      "relationship": "forming",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情有靠近机会；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为癸亥；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年申冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年戌冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为己巳；较明确的窗口落在2016年事业、2018年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2013,
+        "event_text": "2013年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年巳冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为戊申；较明确的窗口落在2013年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为庚申；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为庚寅；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年戌冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。八字大运为乙未；较明确的窗口落在2018年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为庚子；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2021,
+        "event_text": "2021年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年丑冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为甲午；较明确的窗口落在2021年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "up",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2023,
+        "event_text": "2023年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年卯冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业偏有进展；感情相处需磨合；学业有进有退；钱财偏有进账。八字大运为辛酉；较明确的窗口落在2023年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2020,
+        "event_text": "2020年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年子冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为甲辰；较明确的窗口落在2020年事业。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为壬辰；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "2022年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年寅冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2022,
+        "event_text": "2022年亲密关系较容易遇到一次现实安排上的摩擦，需要把分工与预期谈清。",
+        "reason": "八字流年寅冲本命日支；紫微夫妻/福德宫提示需留意相处。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为辛巳；较明确的窗口落在2022年事业、2022年感情。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2021,
+        "event_text": "2021年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。",
+        "reason": "八字流年丑冲本命月支；紫微官禄/命宫组合也显示事业易变。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；较明确的窗口落在2021年事业。",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为丙午；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "up",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "up"
+    },
+    "events": [],
+    "plain_summary": "事业偏有进展；感情相处需磨合；学业有进有退；钱财偏有进账。八字大运为己酉；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。窗口跨到八字大运交替，阶段主题可能改变；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。八字大运为庚寅；",
+    "practical_advice": "将紫微本命与八字大运、年干支合看作文化参考；不要据此单独做辞职、投资或婚恋决定。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。",
+      "未提供紫微逐年运限数据；八字年干支只作宽泛辅助，不据此硬判事件。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

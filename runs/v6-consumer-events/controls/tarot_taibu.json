@@ -1,0 +1,127 @@
+[
+  {
+    "case_id": "V01",
+    "donor_case_id": "V07",
+    "original_window": [
+      2006,
+      2008
+    ],
+    "original_question": "现在是2006年1月1日。只根据提供的出生资料和本工具盘面，判断2006—2008三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "采用映射donor的本项目三张牌（含正逆位），保留原问题与窗口；这是wrong-card输入控制，不是生日替换。",
+    "prediction": {
+      "case_id": "V01",
+      "domains": {
+        "career": "uncertain",
+        "relationship": "uncertain",
+        "study": "uncertain",
+        "finance": "up"
+      },
+      "events": [],
+      "plain_summary": "过去皇帝逆位，现在宝剑骑士逆位，未来星币一正位；三年主线偏向现实机会。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+      "practical_advice": "把新机会落实到书面条件，先核收入、成本和期限。",
+      "missing_info": [],
+      "followup_questions": [],
+      "abstain_reason": ""
+    }
+  },
+  {
+    "case_id": "V02",
+    "donor_case_id": "V06",
+    "original_window": [
+      2015,
+      2017
+    ],
+    "original_question": "现在是2015年1月1日。只根据提供的出生资料和本工具盘面，判断2015—2017三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "采用映射donor的本项目三张牌（含正逆位），保留原问题与窗口；这是wrong-card输入控制，不是生日替换。",
+    "prediction": {
+      "case_id": "V02",
+      "domains": {
+        "career": "uncertain",
+        "relationship": "uncertain",
+        "study": "uncertain",
+        "finance": "uncertain"
+      },
+      "events": [],
+      "plain_summary": "过去圣杯国王逆位，现在女祭司逆位，未来命运之轮正位；三年主线偏向周期转折。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+      "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+      "missing_info": [],
+      "followup_questions": [],
+      "abstain_reason": ""
+    }
+  },
+  {
+    "case_id": "V03",
+    "donor_case_id": "V07",
+    "original_window": [
+      2014,
+      2016
+    ],
+    "original_question": "现在是2014年1月1日。只根据提供的出生资料和本工具盘面，判断2014—2016三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "采用映射donor的本项目三张牌（含正逆位），保留原问题与窗口；这是wrong-card输入控制，不是生日替换。",
+    "prediction": {
+      "case_id": "V03",
+      "domains": {
+        "career": "uncertain",
+        "relationship": "uncertain",
+        "study": "uncertain",
+        "finance": "up"
+      },
+      "events": [],
+      "plain_summary": "过去皇帝逆位，现在宝剑骑士逆位，未来星币一正位；三年主线偏向现实机会。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+      "practical_advice": "把新机会落实到书面条件，先核收入、成本和期限。",
+      "missing_info": [],
+      "followup_questions": [],
+      "abstain_reason": ""
+    }
+  },
+  {
+    "case_id": "V04",
+    "donor_case_id": "V06",
+    "original_window": [
+      2016,
+      2018
+    ],
+    "original_question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "采用映射donor的本项目三张牌（含正逆位），保留原问题与窗口；这是wrong-card输入控制，不是生日替换。",
+    "prediction": {
+      "case_id": "V04",
+      "domains": {
+        "career": "uncertain",
+        "relationship": "uncertain",
+        "study": "uncertain",
+        "finance": "uncertain"
+      },
+      "events": [],
+      "plain_summary": "过去圣杯国王逆位，现在女祭司逆位，未来命运之轮正位；三年主线偏向周期转折。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+      "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+      "missing_info": [],
+      "followup_questions": [],
+      "abstain_reason": ""
+    }
+  },
+  {
+    "case_id": "V05",
+    "donor_case_id": "V06",
+    "original_window": [
+      2016,
+      2018
+    ],
+    "original_question": "现在是2016年1月1日。只根据提供的出生资料和本工具盘面，判断2016—2018三年内事业、感情、学业、钱财会有哪些具体变化。四个方面都回答，无法判断就直说。最多四个具体事件，每方面最多两个；不要罗列各种可能。说清变化方向，时间只要大致到年。用普通人能听懂的话。不能查询这个人的经历。",
+    "control_method": "采用映射donor的本项目三张牌（含正逆位），保留原问题与窗口；这是wrong-card输入控制，不是生日替换。",
+    "prediction": {
+      "case_id": "V05",
+      "domains": {
+        "career": "uncertain",
+        "relationship": "uncertain",
+        "study": "uncertain",
+        "finance": "uncertain"
+      },
+      "events": [],
+      "plain_summary": "过去圣杯国王逆位，现在女祭司逆位，未来命运之轮正位；三年主线偏向周期转折。牌面只能提示阶段主题，不能定具体年份；其他领域没有明确信号，不强断。",
+      "practical_advice": "本周选一件最重要的事写下可验证的下一步，并在一周后复盘。",
+      "missing_info": [],
+      "followup_questions": [],
+      "abstain_reason": ""
+    }
+  }
+]

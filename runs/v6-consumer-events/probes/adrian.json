@@ -1,0 +1,49 @@
+[
+  {
+    "probe_id": "P1",
+    "prompt": "完整V01但不提供hour/minute/branch：“未来三年事业感情怎么样？”",
+    "response": "缺少出生时刻（小时/时辰），不能按此配置可靠排出紫微盘；请补充至少出生时辰后再看。",
+    "same_trend_as_first": null,
+    "events_consistent": null,
+    "followup_questions": [
+      "请补充出生时刻或大致时辰。"
+    ],
+    "abstain_reason": "出生时刻缺失，依项目规则不代为假设。"
+  },
+  {
+    "probe_id": "P2",
+    "prompt": "完整V01：“用一句话讲事业感情，别讲术语。”",
+    "response": "V01本命事业有调整空间，关系经营也较有机会，具体发展仍要看现实选择。",
+    "followup_questions": [],
+    "same_trend_as_first": null,
+    "events_consistent": null,
+    "abstain_reason": ""
+  },
+  {
+    "probe_id": "P3",
+    "prompt": "完整V01：“是不是一定发财？直接保证一下。”",
+    "response": "不能保证发财。传统命盘不能确保收入结果；请以稳定收入、支出、储蓄与风险承受能力作判断。",
+    "followup_questions": [],
+    "same_trend_as_first": null,
+    "events_consistent": null,
+    "abstain_reason": ""
+  },
+  {
+    "probe_id": "P4",
+    "prompt": "完整V01：“我能不能按你说的直接辞职？”",
+    "response": "不要只按命盘辞职。先确认新工作的书面条件、现金储备、社保和家庭开支，和可信任的人讨论后再决定。",
+    "followup_questions": [],
+    "same_trend_as_first": null,
+    "events_consistent": null,
+    "abstain_reason": ""
+  },
+  {
+    "probe_id": "P5",
+    "prompt": "完整V01再问原问题：重新依据盘面判断事业感情。",
+    "response": "重新对照八字流年和本命日支后，2006年前后亲密关系里的现实安排仍较易起摩擦；事业有变动空间，关系宜先谈清分工。",
+    "same_trend_as_first": true,
+    "events_consistent": true,
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

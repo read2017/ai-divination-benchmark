@@ -1,0 +1,506 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2006,
+        "event_text": "2006年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见巨门；官禄见太阳，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2006年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见火星；官禄见天同、巨门，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；官禄见太阳、太阴；财帛见天梁、天钺，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；官禄见天府、文曲；财帛见天相、文昌，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "2014年前后有一次收入或款项增加的机会，仍要看实际合同与现金流。",
+        "reason": "流年命宫落财帛、当年见化禄；财帛见天机、太阴；田宅见天魁。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2014年钱财。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "2014年前后有一次收入或款项增加的机会，仍要看实际合同与现金流。",
+        "reason": "流年命宫落财帛、当年见化禄；财帛见天相、天魁；官禄见天府、天马。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2014年钱财。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见巨门、地劫；官禄见天马，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "2014年前后有一次收入或款项增加的机会，仍要看实际合同与现金流。",
+        "reason": "流年命宫落财帛、当年见化禄；财帛见太阴、陀罗；田宅见天魁。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2014年钱财。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2012,
+        "event_text": "2012年前后感情互动更容易成为焦点，已有关系需谈清安排。",
+        "reason": "流年命宫落夫妻；夫妻见巨门；福德见地劫、陀罗，只作关系焦点判断。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2012年感情。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "2018年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见七杀、地劫；官禄见破军，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财支出/损耗偏多。较明确的窗口落在2018年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "2014年前后有一次收入或款项增加的机会，仍要看实际合同与现金流。",
+        "reason": "流年命宫落财帛、当年见化禄；财帛见天钺；田宅见巨门、陀罗。"
+      }
+    ],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。较明确的窗口落在2014年钱财。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "up",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业偏有进展；感情相处需磨合；学业利于推进；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "up",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2006,
+        "event_text": "2006年前后工作职责或岗位较可能出现一次调整，像是接手新职责或转换工作内容。",
+        "reason": "流年命宫落官禄且有禄权科；命见太阴、文曲；官禄见太阳、天梁，故只提示岗位变化。"
+      }
+    ],
+    "plain_summary": "事业偏有进展；感情相处需磨合；学业有进有退；钱财偏有进账。较明确的窗口落在2006年事业。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "事业较有变动；感情相处需磨合；学业有进有退；钱财进出并见。",
+    "practical_advice": "把趋势作为传统参考，重大决定先核实现实条件；如需进一步细化，可补充当时的工作、关系或学习背景。",
+    "missing_info": [
+      "命理体系属传统解释，不能验证为事实。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

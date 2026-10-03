@@ -1,0 +1,424 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2006,
+        "event_text": "2006年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年丙戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "壬日主四柱丁卯 庚戌 壬辰 己酉；本窗流年2006丙戌、2007丁亥、2008戊子。盘上见官杀职责、财星收支，事业stable、感情forming、学业stable、钱财up；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱丙子 戊戌 戊戌 丁巳；本窗流年2015乙未、2016丙申、2017丁酉。盘上见官杀职责、印星学习，事业stable、感情mixed、学业advance、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "壬日主四柱丁丑 辛亥 壬申 辛亥；本窗流年2014甲午、2015乙未、2016丙申。盘上见财星收支、食伤表达，事业mixed、感情conflict、学业stable、钱财mixed；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: 23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: 23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "己日主四柱癸酉 辛酉 己亥 丙子；本窗流年2016丙申、2017丁酉、2018戊戌。盘上见印星学习，事业stable、感情stable、学业advance、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "丙日主四柱己巳 丙寅 丙辰 己丑；本窗流年2016丙申、2017丁酉、2018戊戌。盘上见食伤表达，事业mixed、感情stable、学业stable、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2013,
+        "event_text": "2013年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年癸巳冲日支亥，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "癸日主四柱壬申 丙午 癸亥 戊午；本窗流年2013癸巳、2014甲午、2015乙未。盘上见食伤表达，事业mixed、感情stable、学业stable、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [],
+    "plain_summary": "戊日主四柱癸酉 壬戌 戊寅 乙卯；本窗流年2013癸巳、2014甲午、2015乙未。盘上见官杀职责、财星收支，事业up、感情mixed、学业stable、钱财mixed；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: 23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: 23:00–23:59 出生资料缺少明确日界与晚子时换日开关；按要求门禁，不擅自定盘。"
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "stable",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018年关系相处较容易因现实安排或立场不同发生明显摩擦。",
+        "reason": "流年戊戌冲日支辰，关系宫受触动但不足以断分手。"
+      }
+    ],
+    "plain_summary": "戊日主四柱丙子 丁酉 戊辰 癸亥；本窗流年2017丁酉、2018戊戌、2019己亥。盘上见印星学习，事业stable、感情stable、学业mixed、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: the available clock is a representative hour, not an observed birth time."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: the available clock is a representative hour, not an observed birth time."
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "mixed",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [],
+    "plain_summary": "甲日主四柱壬戌 丙午 甲申 辛未；本窗流年2005乙酉、2006丙戌、2007丁亥。盘上见食伤表达，事业mixed、感情stable、学业stable、钱财stable；仅作传统取象。",
+    "practical_advice": "逐年核对岗位、关系与现金流；辞职、借贷或结婚等决定以合同、预算及双方现实共识为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "uncertain",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "uncertain"
+    },
+    "events": [],
+    "plain_summary": "此配置未能为这份出生资料形成可用原生盘，无法判断窗口内四方面变化。",
+    "practical_advice": "补齐该配置要求的时刻、地点或日界资料后再排盘。",
+    "missing_info": [
+      "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+    ],
+    "followup_questions": [],
+    "abstain_reason": "Horosa bazi_local gate: birth place missing; no coordinates/place will be invented."
+  }
+]

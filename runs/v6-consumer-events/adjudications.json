@@ -1,0 +1,794 @@
+[
+  {
+    "group": "answers",
+    "config": "adrian",
+    "case_id": "V06",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "answers",
+    "config": "adrian",
+    "case_id": "V15",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2020年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "answers",
+    "config": "adrian",
+    "case_id": "V17",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2022年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "answers",
+    "config": "adrian",
+    "case_id": "V20",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2021年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议把训练转为系统学习/培训，未预测入学、录取或正式学习阶段开始。",
+    "original_event_text": "2016前后适合进入一段更系统的学习或培训，能靠重复练习见到进步。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V03",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议开始课程、资格准备或技能训练，未预测实际进入学习阶段。",
+    "original_event_text": "2014附近适合开始一项较正式的课程、资格准备或技能训练。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V08",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测接更多任务、扩大职责，未说职务或职级提升。",
+    "original_event_text": "2014附近工作或实习中更容易接到能展示能力的任务，表现后有机会扩大职责。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V10",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议报读课程或补技能，未预测入学或正式学习阶段开始。",
+    "original_event_text": "2017附近适合报读新课程或补一项职业技能，前期投入多、后面更有用。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V10",
+    "event_index": 1,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2019可能从学习过渡到工作职责变化，争取更适合长期发展的岗位。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V12",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2020前后工作内容或合作对象可能调整，宜靠专业输出争取更自主的位置。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V12",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议补基础、考证或整理技能，未预测进入学习阶段。",
+    "original_event_text": "2019适合补基础、考证或系统整理一项已经在做的技能。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V13",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话说关键任务、影响力增加，并明确职务未必改变，不能编码为晋升。",
+    "original_event_text": "2022前后更容易因专业可靠被交付关键任务，职务未必立刻变，但影响力会增加。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V13",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议完成学习、资格或作品收尾，未明确预测完成事件。",
+    "original_event_text": "2023适合完成一项长期学习、资格或作品收尾。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V15",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话预测会考虑换岗/换团队，未预测实际换岗或团队变更。",
+    "original_event_text": "2022前后会认真考虑换岗或换团队，宜选能沉淀经验的方向。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V16",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议补学业短板、完成阶段目标，属于行动建议。",
+    "original_event_text": "2008适合在学业上集中补短板，按计划完成阶段目标的机会较高。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V17",
+    "event_index": 1,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2022职场合作关系或工作方式会变，适合调整分工，不宜只凭情绪辞职。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V19",
+    "event_index": 1,
+    "quality": "invalid_code",
+    "reason": "原话预测结识合适对象，未明确开始恋爱关系。",
+    "original_event_text": "2015容易通过日常往来结识合适对象，关系推进节奏较慢但较务实。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V20",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2023工作内容或团队合作可能调整，变动里有重新分配任务的成分。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V21",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议把课程或技能学扎实，未预测进入学习阶段。",
+    "original_event_text": "2008适合把一项课程或技能学扎实，阶段成绩比前一年更容易稳定。"
+  },
+  {
+    "group": "answers",
+    "config": "jinchen",
+    "case_id": "V24",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说接项目、获认可或承担更多职责，未说职位/职级提升。",
+    "original_event_text": "2022更像被交付重要任务或在团队中承担更多责任，靠稳定执行换来认可。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V01",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作安排可能收缩或改组，未明确岗位或单位改变。",
+    "original_event_text": "后段工作安排可能收缩或改组，宜先稳住手头职责。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作内容、职责重新分工，未明确岗位或单位改变。",
+    "original_event_text": "工作内容或职责有调整，较像重新分工，未必升职。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V11",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测责任短暂变化，未明确岗位或单位改变。",
+    "original_event_text": "工作或合作上的责任可能短暂变化，随后趋于停顿。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V16",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说学习/工作安排变化，未明确岗位或单位改变。",
+    "original_event_text": "学习/工作安排可能有一次变化，但落实时会碰到阻力。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V17",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话描述团队或岗位内分工调整，未明确团队/单位或岗位本身改变。",
+    "original_event_text": "团队或岗位分工可能调整，短期需要适应。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V18",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说团队关系或工作分工变化，未明确岗位或单位改变。",
+    "original_event_text": "团队关系或工作分工可能调整，调整后事情较易松动。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V22",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作或项目推进受阻，未预测岗位或单位改变；标签暗示了换工作事件。",
+    "original_event_text": "一项工作或项目推进可能遇阻，谈得热闹但落地不顺。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V23",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作责任或协作方式改变，未明确岗位或单位改变。",
+    "original_event_text": "工作责任或协作方式可能调整，调整会带来一阵压力。"
+  },
+  {
+    "group": "answers",
+    "config": "liuyao",
+    "case_id": "V24",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "只有保守处理钱财、避免额外投入的行动建议，没有预测具体钱财损失。",
+    "original_event_text": "钱财上更适合保守，避免因人情或共同项目多投入。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V01",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说遇到愿认真相处的人，未明确开始恋爱。",
+    "original_event_text": "2006附近容易在熟人或日常往来中遇到愿意认真相处的人，推进偏慢。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议把技能或考试准备做成计划，未预测进入学习阶段。",
+    "original_event_text": "2015适合把技能训练或考试准备做成系统计划，较容易得到认可。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V05",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测认可和职责扩大，没有明确职位/职级提升。",
+    "original_event_text": "2017容易因细致可靠或公开表现被认可，职责有扩大机会。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V06",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说现岗位内职责调整，未明确岗位或单位改变。",
+    "original_event_text": "2017工作上容易因沟通或文书流程产生阻滞，职责调整比直接离职更像。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V08",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作安排调整或外出任务增加，未明确岗位或单位改变。",
+    "original_event_text": "2014工作安排有一次调整或外出任务增加的倾向，但不一定离开原行业。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V08",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议开始结构化学习或资格准备，未预测进入学习阶段。",
+    "original_event_text": "2013适合开始一项更有结构的学习或资格准备。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V09",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话描述工作方向/做事模式重整，没有明确岗位或单位改变。",
+    "original_event_text": "2016工作方向容易出现重整，像从旧模式转到更能自主发挥的做法。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V11",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说获得主导权并承担协调任务，未明确职位/职级提升。",
+    "original_event_text": "2013工作上容易得到更多主导权，适合接下需要策划和协调的任务。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V12",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话描述职责或项目方式重整，没有明确岗位或单位改变。",
+    "original_event_text": "2021更像职责或项目方式发生重整，变动里有从旧模式脱身的意味。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V14",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作或职责方向可能调整，未明确岗位或单位改变。",
+    "original_event_text": "2011财务安排易有进有出，谨慎处理学习、家庭或居住相关支出。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V15",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说承担责任后可能获认可或资源，未明确职位/职级提升。",
+    "original_event_text": "2021工作能见度较高，承担责任后有被认可或获得更好资源的机会。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V17",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话预测考虑换职责/团队，未预测实际变化。",
+    "original_event_text": "2021工作满意度容易下降，考虑换职责或团队，但宜先找好接续方案。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V18",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说承担改革或难题、提升话语权，未明确职位/职级提升。",
+    "original_event_text": "2018工作上适合承担改革或接手难题，做出结果后能提升话语权。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V19",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议通过学习/专业训练提升能力，未预测进入学习阶段。",
+    "original_event_text": "2015适合通过学习、文书或专业训练提升工作能力。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V20",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议尝试新课程、项目或技能方向，未预测进入学习阶段。",
+    "original_event_text": "2021适合尝试新课程、项目或技能方向，能得到朋友协助。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V21",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话明确是朋友或同伴关系冲突，不是恋爱关系事件。",
+    "original_event_text": "2007朋友或同伴关系容易因误解、流言或意见冲突而紧张。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V22",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说获上级支持、承担更重要任务，未明确职位/职级提升。",
+    "original_event_text": "2005工作/实践里容易得到师长或上级支持，承担更重要任务。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V22",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议完成学习阶段目标，未明确预测完成事件。",
+    "original_event_text": "2007适合完成一项学习阶段目标，成绩或作品较易被认可。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V23",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测会考虑换团队/职责，未预测实际岗位或单位变更。",
+    "original_event_text": "2021工作沟通或文书流程容易受阻，可能考虑换团队或调整职责。"
+  },
+  {
+    "group": "answers",
+    "config": "mingli",
+    "case_id": "V24",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议完成学习、策划或作品整理，未明确预测完成事件。",
+    "original_event_text": "2023适合通过学习、策划或作品整理完成阶段提升。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V02",
+    "event_index": 1,
+    "quality": "invalid_code",
+    "reason": "原话只说工作机会和谈判过程反复，未预测实际岗位或单位改变。",
+    "original_event_text": "工作机会有变动，谈成与否可能反复，先核实条件。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V10",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作内容变化、冲突或返工，未明确岗位或单位改变。",
+    "original_event_text": "工作内容可能变化，过程伴随冲突或返工。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V12",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话预测岗位/项目机会出现并建议争取，没有预测实际岗位或单位改变。",
+    "original_event_text": "出现较好的岗位或项目机会，适合主动争取。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V16",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作/学习地点或安排变化，未明确岗位或单位改变。",
+    "original_event_text": "工作或学习地点、安排可能变动，需处理适应期。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V18",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测争取新任务/合作并改变职责，未明确岗位或单位改变。",
+    "original_event_text": "可争取新的工作任务或合作机会，谈成后职责会变。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V20",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责变化，未明确岗位或单位改变。",
+    "original_event_text": "工作职责可能变动，过程有压力但能找到调整空间。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V21",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说工作/学习安排变动，未明确岗位或单位改变。",
+    "original_event_text": "工作或学习安排有一次变动，伴随适应和反复。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V22",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话说工作或项目调整机会与阻碍并存，未说明具体岗位或单位改变。",
+    "original_event_text": "工作或项目可能出现机会与阻碍并存的调整。"
+  },
+  {
+    "group": "answers",
+    "config": "qimen",
+    "case_id": "V24",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说职责或工作重点可能调整，未明确岗位或单位改变。",
+    "original_event_text": "职责或工作重点可能调整，宜先观察是否真正落地。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V01",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议收尾学习计划，未预测进入学习阶段或录取。",
+    "original_event_text": "2008附近更像工作内容调整或短暂换组，变化来自环境要求，不宜当作稳定晋升。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V03",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议完成阶段性课程/考试目标，未明确预测完成事件。",
+    "original_event_text": "2015更适合完成一个阶段性课程或考试目标，结果来自之前持续准备。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V05",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议进入系统学习或准备资格，未预测实际入学或正式学习阶段开始。",
+    "original_event_text": "2016适合进入更系统的学习或资格准备，能把零散能力整理成成果。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V06",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说换项目或工作安排，未明确岗位或单位改变。",
+    "original_event_text": "2016环境变动会迫使你重新分配精力，可能换项目或工作安排。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V07",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说岗位职责或合作对象可能变化，未明确岗位或单位改变。",
+    "original_event_text": "2014岗位职责或合作对象较可能改变，先确认是短期安排还是长期方向。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V08",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议以考试/技能准备为主线，未预测实际进入学习阶段。",
+    "original_event_text": "2013适合把考试或技能准备作为主线，先累积基础。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V10",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议推进证书、课程或作品，未预测入学或正式学习阶段开始。",
+    "original_event_text": "2018适合持续推进证书、课程或作品，宜把已学内容用起来。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V10",
+    "event_index": 1,
+    "quality": "invalid_code",
+    "reason": "原话说把技能带进新职责/环境，没有明确岗位或单位改变。",
+    "original_event_text": "2019可能将技能带进新职责或更适配的工作环境。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V11",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测责任增加、赢得信任，未说职位/职级提升。",
+    "original_event_text": "2014更像工作责任逐步增加，能靠可靠执行赢得信任。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V13",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2021工作任务或团队安排可能变，变动带有责任重新划分的意味。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V14",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "原话仅建议进入明确学习/训练阶段，未预测实际入学或开始正式学习。",
+    "original_event_text": "2011适合进入一个更明确的学习或训练阶段，能得到规范指导。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V15",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话描述主动寻找新团队/工作方式，是寻找意向，不是实际换岗事件。",
+    "original_event_text": "2022更容易主动寻找新的团队或工作方式，先谈清待遇和职责再动。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V17",
+    "event_index": 1,
+    "quality": "conditional_only",
+    "reason": "仅建议推进技能/考试，未明确预测进入学习阶段。",
+    "original_event_text": "2022适合把一项技能或考试推进到有成果的阶段。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V18",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议补齐技能或完成学习，未明确预测完成事件。",
+    "original_event_text": "2019适合补齐职业技能或完成一项有实际用途的学习。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V19",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2013工作职责或团队安排可能调整，先争取明确的权限和资源。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V21",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议完成课程、考试或训练，未明确预测完成事件。",
+    "original_event_text": "2008把重点放在完成课程、考试或一项手艺训练，容易比前一年更稳。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V22",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议把重心放在考试/基础训练，未预测实际进入学习阶段。",
+    "original_event_text": "2005适合把重点放在考试或基础训练上，先求稳再求快。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V23",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议完成技术训练或资格准备，未明确预测完成事件。",
+    "original_event_text": "2022适合完成一项技术训练或资格准备，把专业能力做实。"
+  },
+  {
+    "group": "answers",
+    "config": "xuemian",
+    "case_id": "V24",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只说接更多项目、获认可或承担更大职责，未说职位/职级提升。",
+    "original_event_text": "2022容易因认真细致接下更多项目，得到团队认可或更大职责。"
+  },
+  {
+    "group": "controls",
+    "config": "adrian",
+    "case_id": "V01",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2008年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "controls",
+    "config": "adrian",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "controls",
+    "config": "adrian",
+    "case_id": "V04",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "controls",
+    "config": "adrian",
+    "case_id": "V05",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "2016年工作环境或职责较可能有一次明显调整，宜先看清岗位条件。"
+  },
+  {
+    "group": "controls",
+    "config": "jinchen",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议集中完成课程或技能训练，未明确预测完成事件。",
+    "original_event_text": "替换盘在2016更适合集中完成课程或技能训练，成果来自持续练习。"
+  },
+  {
+    "group": "controls",
+    "config": "jinchen",
+    "case_id": "V03",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "按V07盘，2014职责或合作安排容易变化，变化不等于职位上升。"
+  },
+  {
+    "group": "controls",
+    "config": "jinchen",
+    "case_id": "V05",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议避免冲动投资或共同支出，未预测具体财务损失。",
+    "original_event_text": "按V06盘，2018不宜冲动投入或承担未经核实的共同支出。"
+  },
+  {
+    "group": "controls",
+    "config": "mingli",
+    "case_id": "V02",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话只预测工作职责/内容/分工/协作或安排变化，没有明确岗位或单位改变；job_change 标签因此超出原话。",
+    "original_event_text": "替换盘在2017工作流程有阻滞，更像职责调整而不是确定失业。"
+  },
+  {
+    "group": "controls",
+    "config": "mingli",
+    "case_id": "V04",
+    "event_index": 0,
+    "quality": "invalid_code",
+    "reason": "原话说岗位内职责变化而不是离职，但未明确岗位或单位改变。",
+    "original_event_text": "替换盘显示工作沟通、流程更容易卡住，岗位内的职责变化比离职更像。"
+  },
+  {
+    "group": "controls",
+    "config": "xuemian",
+    "case_id": "V01",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议收尾学习计划，未预测进入学习阶段或录取。",
+    "original_event_text": "按V07映射盘，2008适合把一项技能或学习计划收尾，实际成绩靠持续投入。"
+  },
+  {
+    "group": "controls",
+    "config": "xuemian",
+    "case_id": "V04",
+    "event_index": 0,
+    "quality": "conditional_only",
+    "reason": "仅建议深化技能训练，未预测实际进入学习阶段。",
+    "original_event_text": "按V06映射盘，2017适合把技能训练做深，能为后续工作铺路。"
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2007,
+        "event_text": "学习或手续推进容易原地反复，成效不快。",
+        "reason": "天辅生门在巽但全盘伏吟；景门兑时空，文书学习难快进。"
+      }
+    ],
+    "plain_summary": "整体伏吟，三年变化偏慢；工作有开门值符作支撑，学习和财务则需防反复与落空。",
+    "practical_advice": "按阶段检查进度，避免把延误误判为彻底失败。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2016,
+        "event_text": "关系沟通容易忽冷忽热，旧问题可能反复出现。",
+        "reason": "反吟盘且惊门临值符、伤门艮；六合生门虽在坎，关系稳定度不足。"
+      },
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "工作机会有变动，谈成与否可能反复，先核实条件。",
+        "reason": "开门兑日空，反吟；生门坎旺但全局反吟。"
+      }
+    ],
+    "plain_summary": "变化机会不少，但反吟和空宫使落实反复；感情沟通、工作选择都宜核实后再定。",
+    "practical_advice": "重大决定等条件确定，关系中把具体诉求说清楚。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2015,
+        "event_text": "学习或考试安排可能延迟，准备过程容易反复。",
+        "reason": "天辅星与死门同在巽，生门落乾日空入墓，反吟盘。"
+      }
+    ],
+    "plain_summary": "反吟带来折返，学习计划尤其难顺；事业有开门坤但并不强，不宜断具体升降。",
+    "practical_advice": "为考试或手续准备备选时间。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2017,
+        "event_text": "学习、申请或材料进度较容易卡住。",
+        "reason": "天辅与惊门同在巽，且全局伏吟；开门在离但宫旺衰死。"
+      }
+    ],
+    "plain_summary": "伏吟主慢，工作虽有开门落离但力量有限；更需留意文书学习推进滞后。",
+    "practical_advice": "提早递交材料，逐项确认要求。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2017,
+        "event_text": "课程或手续容易反复修改，进度偏慢。",
+        "reason": "巽宫天辅配惊门，全局伏吟；开门离宫气弱。"
+      }
+    ],
+    "plain_summary": "盘面伏吟，短期变化有限，学习手续较难快速收尾；没有足够依据断其他领域的具体事件。",
+    "practical_advice": "把计划做得保守一些，重要节点提早完成。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2017,
+        "event_text": "有小笔进账或回款机会，但更像逐步改善，不宜期待暴增。",
+        "reason": "生门在兑且日空、伏吟，财象有门但落空并慢。"
+      }
+    ],
+    "plain_summary": "全盘伏吟，变化缓慢；事业开门在离较有通路，财务有机会但兑现速度不快。",
+    "practical_advice": "确认到账时间，不提前透支预期收入。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "靠持续做事有机会增加收入或拿到一笔回款。",
+        "reason": "生门在兑，伏吟但不空；值符天任与景门在艮，利稳步经营。"
+      }
+    ],
+    "plain_summary": "格局伏吟，事业财务以慢慢累积为主；学习有天辅但惊门，需靠反复准备。",
+    "practical_advice": "用稳定节奏累积，不因短期慢而频繁换方向。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入或回款有逐步增加的可能，靠持续经营而来。",
+        "reason": "生门兑宫未空，天辅在巽；伏吟显示推进缓慢。"
+      }
+    ],
+    "plain_summary": "大势平稳但慢，事业与财务适合稳步做；学习上反复准备，关系未见清楚事件信号。",
+    "practical_advice": "把长期目标拆成可检查的小步。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "uncertain",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "工作机会或岗位调整可能出现，但谈判过程会反复。",
+        "reason": "开门兑日空，反吟；生门坎旺但反吟，落地不稳。"
+      }
+    ],
+    "plain_summary": "反吟主变动和折返，工作方向有变化机会而不易一锤定音；财务机会也需核实。",
+    "practical_advice": "转换前先拿到正式条件和收入明细。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2018,
+        "event_text": "工作内容可能变化，过程伴随冲突或返工。",
+        "reason": "值符天冲在兑逢伤门，且反吟；开门巽有力但不在自身位。"
+      }
+    ],
+    "plain_summary": "反吟明显，事业有调整但未必顺手；学习与文书可推进，财务则不能断定大幅变化。",
+    "practical_advice": "变动时留好交接记录，避免冲动辞职。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "收入更像缓慢增加或回款逐步到位。",
+        "reason": "生门兑宫，伏吟而非空；事业开门在离气弱，发展节奏仍慢。"
+      }
+    ],
+    "plain_summary": "伏吟让事情推进偏慢；财务有渐进机会，事业暂难断明显跃升，关系信号不强。",
+    "practical_advice": "按保守现金流做安排。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "up",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2020,
+        "event_text": "出现较好的岗位或项目机会，适合主动争取。",
+        "reason": "值符天心与开门同在坎，宫旺但带刑格，利机会也需审慎。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2021,
+        "event_text": "工作带来的收入有改善机会。",
+        "reason": "生门在震且天任同宫、宫旺衰相，财路可逐步打开。"
+      }
+    ],
+    "plain_summary": "事业机会和财路都偏有利，但日干相关宫带刑格，过程有手续或规则压力。",
+    "practical_advice": "争取机会时把职责、考核和付款规则谈清楚。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "岗位或职责可能调整，短期需要适应新要求。",
+        "reason": "日干己落乾，与天芮、生门同宫并见时空驿马，机会或移动想法有但落实偏慢。"
+      }
+    ],
+    "plain_summary": "变化信号存在但核心宫日空，工作调整未必马上落实；学习有天辅开门助力，其他领域不宜强断。",
+    "practical_advice": "等正式通知落地再据此安排。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_delay",
+        "year": 2012,
+        "event_text": "考试、申请或课程进展偏慢，容易多等一轮。",
+        "reason": "天辅星在巽配杜门且时空；全盘伏吟。"
+      }
+    ],
+    "plain_summary": "整体伏吟偏守，事业的开门在乾可用但变化不大；学习手续较慢，关系和钱财证据不足。",
+    "practical_advice": "留足办理时间，不把等待当作拒绝。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2021,
+        "event_text": "岗位或项目会有调整机会，过程可能来回改动。",
+        "reason": "反吟盘，开门巽落日空并有驿马；自身日干相关落兑伤门。"
+      }
+    ],
+    "plain_summary": "变化较大但反吟、空亡同见，工作调整未必顺利落地；学习和财务不宜作具体承诺。",
+    "practical_advice": "有替代方案再切换，先守住现金流。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2008,
+        "event_text": "工作或学习地点、安排可能变动，需处理适应期。",
+        "reason": "反吟盘，开门震有太白入荧，驿马在巽且入墓，动中受阻。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2008,
+        "event_text": "关系沟通容易急躁，可能为安排或距离起争执。",
+        "reason": "六合在离遇生门但宫死；伤门坤临白虎。"
+      }
+    ],
+    "plain_summary": "反吟和驿马带来变动，但开门格局不稳；关系沟通也需降火，不能由此断分手。",
+    "practical_advice": "变动前把时间安排说清，争执时先暂停再谈。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "工作方向或职责可能变化，适合先试探再决定。",
+        "reason": "日干庚落震与值符天蓬、景门同宫日空；开门坤落六合天辅。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2023,
+        "event_text": "通过稳步项目有收入改善机会。",
+        "reason": "生门乾宫有天芮、玄武并带驿马时空，机会存在但到账不稳。"
+      }
+    ],
+    "plain_summary": "有调整和机会，但关键宫空、财门带隐忧，落地需时间；关系未见清楚事件。",
+    "practical_advice": "以已落实的合同和到账款判断进展。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2019,
+        "event_text": "可争取新的工作任务或合作机会，谈成后职责会变。",
+        "reason": "开门在兑与六合天心同宫；日干丁所在乾遇休门、入墓，个人推进偏慢。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2020,
+        "event_text": "有通过项目或回款改善财务的机会。",
+        "reason": "生门坎宫旺并见地遁，财务可渐进。"
+      }
+    ],
+    "plain_summary": "外部机会不差，尤其合作与进账；本人日干癸落巽遇天英景门并入墓，行动和手续可能比预期慢。",
+    "practical_advice": "先争取条件，再设清楚的时间表。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "stable",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2014,
+        "event_text": "持续经营或专业技能有机会带来小幅收入改善。",
+        "reason": "生门兑宫伏吟不空，值符天任在艮；是慢财而非暴发。"
+      }
+    ],
+    "plain_summary": "伏吟提示推进缓慢，但财门和开门仍在盘中；更像稳步工作和收入，不支持突然大变。",
+    "practical_advice": "守住稳定来源，同时控制新增开支。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "工作职责可能变动，过程有压力但能找到调整空间。",
+        "reason": "日干己落乾，与天芮、生门同宫并见时空驿马；开门坤配六合天辅。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2023,
+        "event_text": "工作项目可能带来额外进账，但不宜视为稳收入。",
+        "reason": "生门在乾有驿马时空并临天芮玄武，财机会伴随变数。"
+      }
+    ],
+    "plain_summary": "工作有变化信号，收入也可能随项目起伏；核心宫空、财门不稳，关系和学业没有明确事件。",
+    "practical_advice": "不要把临时项目收入计入固定预算。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2008,
+        "event_text": "工作或学习安排有一次变动，伴随适应和反复。",
+        "reason": "反吟盘，开门震遇太白入荧；日干宫巽有驿马但入墓。"
+      }
+    ],
+    "plain_summary": "反吟提示变化，但开门受格局牵制，推进中容易改动；关系、钱财无清楚事件指向。",
+    "practical_advice": "为计划变化留出备选时间与资源。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2006,
+        "event_text": "工作或项目可能出现机会与阻碍并存的调整。",
+        "reason": "开门离落死宫；生门兑时空并见刑格，值符天任在坤双空。"
+      }
+    ],
+    "plain_summary": "事业、财务的门虽出现但落空或受刑，机会难马上兑现；学习有天辅但惊门。",
+    "practical_advice": "重大承诺等到正式确认后再投入。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "工作任务或方向可能调整，先有压力后逐步理顺。",
+        "reason": "日干己落乾，与天芮、生门同宫并见时空驿马，个人行动有机会但落实不快；开门坤有六合天辅。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2023,
+        "event_text": "有项目型收入机会，但到账节奏或金额不稳定。",
+        "reason": "生门乾宫带驿马、时空，天芮玄武同宫。"
+      }
+    ],
+    "plain_summary": "调整机会存在，但核心与财门都见空或隐忧；不能把压力直接断成失业。",
+    "practical_advice": "只按确定到账和书面安排作决定。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "mixed",
+      "relationship": "uncertain",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2022,
+        "event_text": "职责或工作重点可能调整，宜先观察是否真正落地。",
+        "reason": "日干己落乾，与天芮、生门同宫并见时空驿马；开门坤六合天辅。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2023,
+        "event_text": "可能有项目带来的收入机会，但回款需核实。",
+        "reason": "生门乾临天芮玄武、驿马和时空，门在但兑现不稳。"
+      }
+    ],
+    "plain_summary": "工作方向可调整，项目收入有机会但不稳定；三年格局里关系、学业没有足够明确的具体事件。",
+    "practical_advice": "把职责和回款节点落实到书面。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]

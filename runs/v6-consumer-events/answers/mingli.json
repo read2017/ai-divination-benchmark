@@ -1,0 +1,680 @@
+[
+  {
+    "case_id": "V01",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "stable",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2006,
+        "event_text": "2006附近容易在熟人或日常往来中遇到愿意认真相处的人，推进偏慢。",
+        "reason": "夫妻宫太阴化禄；该年夫妻位有资源助力。"
+      }
+    ],
+    "plain_summary": "事业整体平顺，关系缘分比钱财更显眼；2008外部环境压力升高，适合稳住节奏。",
+    "practical_advice": "关系里多看持续行动，别因短期热度过早承诺。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V02",
+    "domains": {
+      "career": "up",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "down"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2015,
+        "event_text": "2015适合把技能训练或考试准备做成系统计划，较容易得到认可。",
+        "reason": "命宫武曲破军见文昌化科，学习成果能被看见。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2016,
+        "event_text": "2016钱财上要防一次明显的计划外损耗或预算超支。",
+        "reason": "财帛宫廉贞七杀且流年化忌落财帛，年度压力叠加。"
+      }
+    ],
+    "plain_summary": "工作有承担大任务的潜力，学习表现有助加分；2016钱财是三年里最该谨慎的一项。",
+    "practical_advice": "大额支出先核对合同和现金储备，避免冲动投入。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V03",
+    "domains": {
+      "career": "change",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016更像工作团队或职责出现一次明显改组，适合重整做事方式。",
+        "reason": "官禄宫破军，变动性强；命宫七杀推动快速应对。"
+      }
+    ],
+    "plain_summary": "工作变化比感情和财务更清楚；关系有稳住的条件，学习进退取决于实际安排。",
+    "practical_advice": "把变化拆成能掌控的小步骤，先确认新岗位职责。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V04",
+    "domains": {
+      "career": "change",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2017,
+        "event_text": "2017岗位沟通和规则容易卡住，可能从现有岗位转到新的分工或团队。",
+        "reason": "官禄宫天同巨门，大限与流年巨门压力同到官禄。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2016,
+        "event_text": "2016靠项目、信息或多跑动有增加收入的机会，但收入节奏会不均。",
+        "reason": "财帛宫天机化禄、带天马，机会伴随变化。"
+      }
+    ],
+    "plain_summary": "先有收入机会，随后工作沟通压力上升；关系也易受言语和安排影响。",
+    "practical_advice": "工作变动时留存邮件记录，收入增长先补足储蓄。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V05",
+    "domains": {
+      "career": "up",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2017,
+        "event_text": "2017容易因细致可靠或公开表现被认可，职责有扩大机会。",
+        "reason": "官禄宫太阳太阴，太阴化科，能见度和名声上升。"
+      }
+    ],
+    "plain_summary": "事业声誉较有提升机会；其余领域缺少足以断成具体事件的年度信号，暂按平稳看。",
+    "practical_advice": "争取有成果可展示的任务，把贡献清楚记录下来。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V06",
+    "domains": {
+      "career": "mixed",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2017,
+        "event_text": "2017工作上容易因沟通或文书流程产生阻滞，职责调整比直接离职更像。",
+        "reason": "官禄天府本可稳，文曲化忌入官禄且流年压力显。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2017,
+        "event_text": "2017与伴侣或亲近对象容易因忙碌、家事安排争执。",
+        "reason": "夫妻宫紫微七杀带铃星、天马，流年压力也触夫妻位。"
+      }
+    ],
+    "plain_summary": "稳定能力尚在，但2017的工作沟通和亲密关系摩擦明显；收入盘面偏稳，不宜过度推断。",
+    "practical_advice": "重要沟通留书面确认，关系里提前商量时间安排。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V07",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2015,
+        "event_text": "2015有靠技能、协作或专业服务增加收入的机会，宜稳步积累。",
+        "reason": "财帛宫天机太阴，流年左辅化科入财帛。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2013,
+        "event_text": "2013关系中容易因口舌、反复确认而有摩擦。",
+        "reason": "夫妻宫巨门与文曲、陀罗同宫，沟通需要耐心。"
+      }
+    ],
+    "plain_summary": "钱财与技能输出较能推进，关系更考验说清楚；工作总体适合稳扎稳打。",
+    "practical_advice": "把收入机会核实后再投入，争执时先确认对方原意。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V08",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2014,
+        "event_text": "2014工作安排有一次调整或外出任务增加的倾向，但不一定离开原行业。",
+        "reason": "官禄宫天府稳中带天马；迁移宫化忌显示外部安排压力。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2013,
+        "event_text": "2013适合开始一项更有结构的学习或资格准备。",
+        "reason": "命宫借文昌文曲，利学习表达；大限对学习安排有牵动。"
+      }
+    ],
+    "plain_summary": "学习和工作安排都有变化空间，钱财偏稳；感情不急着下结论。",
+    "practical_advice": "先确定学习目标，再核实工作调整是否值得。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V09",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2016,
+        "event_text": "2016工作方向容易出现重整，像从旧模式转到更能自主发挥的做法。",
+        "reason": "官禄破军、命宫七杀，改变倾向较强。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2015,
+        "event_text": "2015更容易通过正式交往或熟人介绍遇见合适对象，关系有认真发展的机会。",
+        "reason": "夫妻宫紫微天相，且流年夫妻宫化科。"
+      }
+    ],
+    "plain_summary": "事业变动性较强，关系在2015有正向机会；钱财随项目起伏，不宜冒进。",
+    "practical_advice": "转岗先确认风险边界，交往中同步沟通现实计划。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V10",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2018,
+        "event_text": "2018相处中容易因为未来规划、住处或家庭安排意见不一。",
+        "reason": "夫妻宫天机太阴，流年夫妻宫化权，控制和规划议题变强。"
+      },
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2019,
+        "event_text": "2019可能因外出、项目或岗位需要改变工作地点或协作方式。",
+        "reason": "官禄宫空宫带天马，外部流年推动迁移。"
+      }
+    ],
+    "plain_summary": "学习能持续推进，后两年工作与关系都受未来安排牵动；财务不宜只看表面进账。",
+    "practical_advice": "涉及搬动或换岗先谈预算和责任。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V11",
+    "domains": {
+      "career": "up",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2013,
+        "event_text": "2013工作上容易得到更多主导权，适合接下需要策划和协调的任务。",
+        "reason": "官禄宫天机化权，命宫天同化禄并见文昌科。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2015,
+        "event_text": "2015亲密关系里说话方式容易造成误会，需避免冷处理。",
+        "reason": "夫妻宫巨门文曲擎羊，口舌张力偏强。"
+      }
+    ],
+    "plain_summary": "事业表现和学习表达较有优势；关系沟通是较明显的磨合点，财务保持实际。",
+    "practical_advice": "把重要意见讲具体，别用试探代替直接沟通。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V12",
+    "domains": {
+      "career": "change",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2021,
+        "event_text": "2021更像职责或项目方式发生重整，变动里有从旧模式脱身的意味。",
+        "reason": "官禄宫破军，流年大限推动变革；迁移宫化科助外部机会。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2020,
+        "event_text": "2020有靠新项目、服务或创意获得额外进账的机会。",
+        "reason": "财帛宫贪狼配左辅，收入来源可更灵活。"
+      }
+    ],
+    "plain_summary": "先有收入机会，后段事业重整；感情要看现实协商，学习不是突出主线。",
+    "practical_advice": "不要为追求变化放弃现金缓冲，先把新机会做小规模验证。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V13",
+    "domains": {
+      "career": "stable",
+      "relationship": "forming",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2023,
+        "event_text": "2023适合完成一项学习或作品阶段目标，靠持续整理见成果。",
+        "reason": "福德天同天梁并有天梁化科，利沉淀与学习。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_start",
+        "year": 2022,
+        "event_text": "2022日常相处中有机会出现互相支持的关系，适合慢慢确认。",
+        "reason": "夫妻宫太阴右弼，感情表达偏温和。"
+      }
+    ],
+    "plain_summary": "学习与关系都有向前机会，事业靠持续服务和曝光；财务稳中有变。",
+    "practical_advice": "把学习产出留下来，关系要有实际相处而非只靠想象。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V14",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_loss",
+        "year": 2011,
+        "event_text": "2011财务安排易有进有出，谨慎处理学习、家庭或居住相关支出。",
+        "reason": "财帛宫天机禄与太阴忌并见，且压力评分升高。"
+      },
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2013,
+        "event_text": "2013工作或职责方向可能调整，先了解新安排的资源和边界。",
+        "reason": "官禄宫天同带擎羊，外部变化需要适应。"
+      }
+    ],
+    "plain_summary": "工作方向尚能稳住，但财务在窗口前段更易反复；感情不是这段最强的主题。",
+    "practical_advice": "把固定开支列出上限，岗位调整先确认能获得的支持。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V15",
+    "domains": {
+      "career": "up",
+      "relationship": "stable",
+      "study": "mixed",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2021,
+        "event_text": "2021工作能见度较高，承担责任后有被认可或获得更好资源的机会。",
+        "reason": "官禄太阳太阴，太阴化禄入官禄。"
+      }
+    ],
+    "plain_summary": "事业机会和外部助力较突出，财务适合稳步管理；学习与感情没有足够强的单年信号。",
+    "practical_advice": "争取明确的职责和回报，别因机会多而同时过度承诺。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V16",
+    "domains": {
+      "career": "mixed",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "uncertain"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2007,
+        "event_text": "2007关系里容易因不信任、意见反复或交流不畅而别扭。",
+        "reason": "夫妻宫天同太阴但见地劫擎羊，流年夫妻宫有化禄也有牵制。"
+      }
+    ],
+    "plain_summary": "感情有靠近也有反复，工作和钱财盘面不够明确；这三年宜把精力放在现实稳定上。",
+    "practical_advice": "发生分歧时把担心讲明白，避免用沉默测试对方。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V17",
+    "domains": {
+      "career": "down",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2021,
+        "event_text": "2021工作满意度容易下降，考虑换职责或团队，但宜先找好接续方案。",
+        "reason": "官禄宫太阳太阴见流年太阴化忌，事业宫压力显。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "2022收入管理能力或承担资源的能力增强，有稳步改善空间。",
+        "reason": "财帛天梁化权并见左辅，偏向责任带来资源。"
+      }
+    ],
+    "plain_summary": "先有事业压力，随后财务资源更可掌握；感情不作明确结论。",
+    "practical_advice": "先确认下一步岗位，再决定离开；理财重在预算和储蓄。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V18",
+    "domains": {
+      "career": "up",
+      "relationship": "stable",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2018,
+        "event_text": "2018工作上适合承担改革或接手难题，做出结果后能提升话语权。",
+        "reason": "官禄宫破军化权，年度事业触发明显。"
+      },
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2019,
+        "event_text": "2019人脉或新项目可能带来额外收入，但要辨别实际回款。",
+        "reason": "财帛宫贪狼，资源机会多但起伏也大。"
+      }
+    ],
+    "plain_summary": "事业的主导权增强，后段收入机会增多；亲密关系盘面较稳定，学习不是焦点。",
+    "practical_advice": "接改革任务前确认权限，项目收入以到账为准。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V19",
+    "domains": {
+      "career": "stable",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2014,
+        "event_text": "2014相处中容易因工作节奏或双方主见强而出现一次明显冲突。",
+        "reason": "夫妻宫武曲破军，带变动性；大限化忌牵夫妻主题。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2015,
+        "event_text": "2015适合通过学习、文书或专业训练提升工作能力。",
+        "reason": "父母宫文昌化科，利资料、资格和系统学习。"
+      }
+    ],
+    "plain_summary": "工作稳定性尚可，关系需要磨合；学习有助于职业发展，财务不宜激进。",
+    "practical_advice": "分歧时先谈共同目标，学习投入选实用方向。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V20",
+    "domains": {
+      "career": "stable",
+      "relationship": "mixed",
+      "study": "advance",
+      "finance": "up"
+    },
+    "events": [
+      {
+        "domain": "finance",
+        "event_code": "financial_gain",
+        "year": 2022,
+        "event_text": "2022资源管理和收入安排更有主动权，适合稳步积累。",
+        "reason": "财帛宫太阴化权，主导收支的力量上升。"
+      },
+      {
+        "domain": "study",
+        "event_code": "study_entry",
+        "year": 2021,
+        "event_text": "2021适合尝试新课程、项目或技能方向，能得到朋友协助。",
+        "reason": "子女宫贪狼化禄，交友宫有资源支持。"
+      }
+    ],
+    "plain_summary": "学习尝试和财务掌控力逐渐增强，事业较平稳；关系要避免说话过于挑剔。",
+    "practical_advice": "先用小项目测试新方向，储蓄目标设成固定数额。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V21",
+    "domains": {
+      "career": "mixed",
+      "relationship": "mixed",
+      "study": "stable",
+      "finance": "stable"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2007,
+        "event_text": "2007朋友或同伴关系容易因误解、流言或意见冲突而紧张。",
+        "reason": "交友、兄弟宫压力值分别达3.5和3.0，流年巨门忌叠加。"
+      }
+    ],
+    "plain_summary": "这个年龄阶段盘面显示人际压力最突出；事业和感情不够稳健地断具体事件，财务先平稳处理。",
+    "practical_advice": "少卷入传话和站队，有争议时找当事人核对。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V22",
+    "domains": {
+      "career": "up",
+      "relationship": "stable",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "promotion",
+        "year": 2005,
+        "event_text": "2005工作/实践里容易得到师长或上级支持，承担更重要任务。",
+        "reason": "官禄太阳天梁并见流年天梁化禄，文昌天魁助力。"
+      },
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2007,
+        "event_text": "2007适合完成一项学习阶段目标，成绩或作品较易被认可。",
+        "reason": "子女宫左辅化科，利成果呈现。"
+      }
+    ],
+    "plain_summary": "学习和实践都有贵人或规范资源，钱财不是主要增益方向；感情无明显事件信号。",
+    "practical_advice": "向有经验的人请教，同时把成果整理成可展示材料。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V23",
+    "domains": {
+      "career": "down",
+      "relationship": "conflict",
+      "study": "stable",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "career",
+        "event_code": "job_change",
+        "year": 2021,
+        "event_text": "2021工作沟通或文书流程容易受阻，可能考虑换团队或调整职责。",
+        "reason": "官禄宫文曲化忌，年度官禄压力值2.0。"
+      },
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2022,
+        "event_text": "2022关系中的旧分歧可能再次出现，尤其是承诺和现实安排。",
+        "reason": "夫妻宫压力值2.5且大限化忌牵动，冲突主题延续。"
+      }
+    ],
+    "plain_summary": "工作和关系都需要把沟通讲清楚；财务有资源但支出节奏不稳，学业保持常态。",
+    "practical_advice": "重要承诺写清日期与责任，岗位选择先核实规则。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  },
+  {
+    "case_id": "V24",
+    "domains": {
+      "career": "stable",
+      "relationship": "conflict",
+      "study": "advance",
+      "finance": "mixed"
+    },
+    "events": [
+      {
+        "domain": "relationship",
+        "event_code": "relationship_conflict",
+        "year": 2021,
+        "event_text": "2021亲密关系容易出现投入不对等或对回应的期待落差。",
+        "reason": "夫妻宫天同化忌且地空同宫，关注与失落感并见。"
+      },
+      {
+        "domain": "study",
+        "event_code": "graduation",
+        "year": 2023,
+        "event_text": "2023适合通过学习、策划或作品整理完成阶段提升。",
+        "reason": "福德宫天机太阴，太阴化科，思考与整理力较强。"
+      }
+    ],
+    "plain_summary": "工作总体可稳步推进，但关系在窗口内较易有心结；学习能提供补充力量，钱财需管理波动。",
+    "practical_advice": "关系里直接谈需求；学习目标定小并按期检查。",
+    "missing_info": [],
+    "followup_questions": [],
+    "abstain_reason": ""
+  }
+]
