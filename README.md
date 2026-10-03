@@ -1,6 +1,35 @@
-# AI命运工具公开测评
+<div align="center">
 
-**实测12个开源Skill项目、16种配置：工具组第一名，没有超过“四句好话”对照的准确分。**
+# AI 命运工具公开测评
+
+<p align="center">
+  <img src="assets/hero.gif" alt="12 款开源命理工具 · 24 个普通人 · 46 件人生大事 的测评流程" width="100%"/>
+</p>
+
+> *12 款开源命理工具、16 种配置、24 个普通人的 46 件人生大事：工具组第一名，没有超过「四句好话」对照。*
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776ab?logo=python&logoColor=white)
+![scoring offline reproducible](https://img.shields.io/badge/scoring-offline%20reproducible-b34c2f)
+![type retrospective backtest](https://img.shields.io/badge/type-retrospective%20backtest-6b7772)
+<!-- 建好 GitHub 远端后，把下面这行解开注释，并把 read2017/REPO 换成实际仓库名
+[![Stars](https://img.shields.io/github/stars/read2017/REPO?style=social)](https://github.com/read2017/REPO/stargazers)
+-->
+
+<br>
+
+**藏起 24 个普通人的真实经历，只给出生资料和一段三年窗口，让 12 款开源命理工具自己判断事业、感情、学业、钱财会怎么变，再逐条对照公开记录。原始回答、评分规则、对照组和全部方法边界都在仓库里，评分不联网即可复算。**
+
+<sub>八字 · 紫微斗数 · 印度占星 · 奇门 · 六爻 · 塔罗 ｜ 中文 ｜ 同一模型 gpt-6-luna</sub>
+
+<br>
+
+[从哪里开始](#从哪里开始) · [关键成绩](#关键成绩) · [怎么测](#怎么测) · [复核成绩](#复核成绩) · [必须一起看的边界](#必须一起看的边界) · [目录与授权](#目录与授权) · [展示网页](docs/index.html)
+
+<br>
+
+</div>
+
+---
 
 这是一份探索性回测，不是未来准确率证明。24个普通人的公开案例、46件选定人生大事；统一使用 `gpt-6-luna` 解读。覆盖八字、紫微斗数、印度占星，以及模拟奇门、六爻、塔罗。本仓库发布测评结果、评分方法和已有回答，不提供付费占卜服务。
 
@@ -8,8 +37,8 @@
 
 - [通俗测评报告](reports/publication/人生变化命理测评-v6.md)：完整榜单、GitHub原链接及事业／感情／学业／钱财分项。
 - [录屏展示网页](docs/index.html)：下载仓库后用浏览器打开；F全屏、R简洁模式、上下方向键切换章节。GitHub文件页只显示源代码，在线展示可手动配置Pages，见[发布说明](PUBLICATION.md)。
-- [自媒体成稿](reports/publication/AI算命重测-自媒体成稿.md)。
 - [证据附件](reports/publication/人生变化命理测评-v6-证据附件.md)和[逐题明细CSV](reports/publication/人生变化测评-逐题明细.csv)。
+- 口播稿与自媒体成稿留在本地，不随仓库发布；本仓库只放可复核的测评材料。
 
 ## 关键成绩
 
@@ -58,3 +87,21 @@ python3 scripts/reproduce_scores.py
 `docs/` 展示网页；`reports/` 最新报告及成绩；`datasets/` 选定目标；`runs/` v6回答与规则；`harness/` 原始评分程序；`scripts/` 复核入口；`provenance/` 公开文件散列。
 
 本仓库没有为作者原创内容擅自设置开源授权。公开可读不等于任意再授权；第三方图片及案例材料的权利归原作者，详见[第三方声明](THIRD_PARTY_NOTICES.md)。
+
+## 关于作者
+
+这份测评和配套的口播内容发在「**沉思哲｜AI产品研发**」。
+
+- 邮箱：read2016@qq.com
+- 抖音：108799524 ｜ 小红书：26262268555
+
+<!-- 二维码占位：把自己的抖音/小红书二维码分别存成 assets/douyin-qrcode.png 与 assets/xiaohongshu-qrcode.png，然后放开下面这段
+<table><tr>
+<td align="center"><img src="assets/douyin-qrcode.png" width="220"/><br><sub>抖音</sub></td>
+<td align="center"><img src="assets/xiaohongshu-qrcode.png" width="220"/><br><sub>小红书</sub></td>
+</tr></table>
+-->
+
+## 支持这个项目
+
+如果这份测评对你有用，**点个 Star 让我知道这类实测值得继续做**；点 Watch 会在有更新时收到通知。
