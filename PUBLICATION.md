@@ -4,18 +4,19 @@
 
 ## 发布前已做／未做
 
-复核程序校验文件散列、数据数量、私密路径和明显凭据；评分在临时目录完整复算。未上传GitHub、未设置远端、未启用Pages。网页未完成浏览器视觉与交互验证，录屏前自行打开检查。
+复核程序校验文件散列、数据数量、私密路径和明显凭据；评分在临时目录完整复算。**已推送至公开仓库 `https://github.com/read2017/ai-divination-benchmark`，仓库描述与 16 个 topics 已设置**（用于被 bazi / ziwei / divination / astrology / tarot 等关键词搜到）。**GitHub Pages 尚未启用**，见下节。展示网页的视觉与交互建议录屏前自行打开检查。
 
 ## 推送
 
-在GitHub新建空仓库，再将下面占位地址替换为自己的地址：
+远端已配置完成，日常更新直接：
 
 ```bash
-git remote add origin https://github.com/YOUR_ACCOUNT/YOUR_REPOSITORY.git
-git push -u origin main
+git add <逐项加入白名单的文件>
+git commit -m "..."
+git push
 ```
 
-不要使用`git add -f`把被忽略的vendor、缓存、旧报告或私人文件加入公开仓库。未来增加文件应逐项加入白名单，复查后更新公开散列。
+不要使用`git add -f`把被忽略的vendor、缓存、旧报告或私人文件加入公开仓库。未来增加文件应逐项加入白名单，复查后更新公开散列。**自媒体口播稿、录屏脚本与成稿永远不进白名单**（见「保留了什么」一节）。
 
 ## GitHub Pages
 
