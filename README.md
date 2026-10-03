@@ -11,9 +11,7 @@
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776ab?logo=python&logoColor=white)
 ![scoring offline reproducible](https://img.shields.io/badge/scoring-offline%20reproducible-b34c2f)
 ![type retrospective backtest](https://img.shields.io/badge/type-retrospective%20backtest-6b7772)
-<!-- 建好 GitHub 远端后，把下面这行解开注释，并把 read2017/REPO 换成实际仓库名
-[![Stars](https://img.shields.io/github/stars/read2017/REPO?style=social)](https://github.com/read2017/REPO/stargazers)
--->
+[![Stars](https://img.shields.io/github/stars/read2017/ai-divination-benchmark?style=social)](https://github.com/read2017/ai-divination-benchmark/stargazers)
 
 <br>
 
@@ -23,7 +21,7 @@
 
 <br>
 
-[从哪里开始](#从哪里开始) · [关键成绩](#关键成绩) · [怎么测](#怎么测) · [复核成绩](#复核成绩) · [必须一起看的边界](#必须一起看的边界) · [目录与授权](#目录与授权) · [展示网页](docs/index.html)
+[从哪里开始](#从哪里开始) · [关键成绩](#关键成绩) · [被测项目](#被测项目) · [怎么测](#怎么测) · [复核成绩](#复核成绩) · [必须一起看的边界](#必须一起看的边界) · [目录与授权](#目录与授权) · [展示网页](docs/index.html)
 
 <br>
 
@@ -50,6 +48,36 @@
 | “全说好事”固定规则（对照，非Skill） | 32.05 | 40.26 | 19 | 9次 |
 
 排名按准确分，最终分包含具体性、错输入对照、可观察易用性。类别命中不等于年份完全准确；未命中不全是猜错，也包括遗漏和未作答。普通AI对照没有给判断，零分不能用来证明命理工具有效。完整16项配置和两项对照见报告。
+
+## 被测项目
+
+本轮读取并实测了 12 个开源仓库、16 种配置。按体系分组，链接指向本轮实际读取的仓库（不是推荐，也不代表合作关系）：
+
+**八字 BaZi**（6）
+[雪眠八字 xuemian168/bazi-skill](https://github.com/xuemian168/bazi-skill) ·
+[金辰八字 jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) ·
+[高鑫八字 gaoxin492/bazi-skill](https://github.com/gaoxin492/bazi-skill) ·
+[Suangua Sudo-Biao/suangua](https://github.com/Sudo-Biao/suangua) ·
+[命语 Brhiza/mingyu](https://github.com/Brhiza/mingyu) ·
+[Horosa Horace-Maxwell/horosa-skill](https://github.com/Horace-Maxwell/horosa-skill)
+
+**紫微斗数 Zi Wei Dou Shu**（2）
+[Wolke/ziwei-doushu](https://github.com/Wolke/ziwei-doushu) ·
+[命理大师 learnwithu/mingli-master](https://github.com/learnwithu/mingli-master)
+
+**八字＋紫微 BaZi + Zi Wei**（1）
+[AdrianBOM/bazi-ziwei-skill](https://github.com/AdrianBOM/bazi-ziwei-skill)
+
+**印度占星 Vedic Astrology**（1）
+[CNWU16/vedic-astro-skills](https://github.com/CNWU16/vedic-astro-skills)
+
+**多体系：八字／紫微／奇门遁甲／六爻／塔罗**（1）
+[太卜 hhszzzz/taibu](https://github.com/hhszzzz/taibu) —— 八字、紫微、奇门、六爻、塔罗各列一行单独计分
+
+**塔罗 Tarot**（1）
+[daman-ovo-0404/tarot-skill](https://github.com/daman-ovo-0404/tarot-skill)
+
+对照组不是项目：**全说好事**（固定规则）、**普通 AI**（不加载任何 Skill）、**错生日**（把出生资料换成另一个人的）。未覆盖手相、风水、合婚，以及六爻、奇门的真实问事预测。
 
 ## 怎么测
 
@@ -104,4 +132,4 @@ python3 scripts/reproduce_scores.py
 
 ## 支持这个项目
 
-如果这份测评对你有用，**点个 Star 让我知道这类实测值得继续做**；点 Watch 会在有更新时收到通知。
+如果这份测评对你有用，**[点个 Star](https://github.com/read2017/ai-divination-benchmark/stargazers) 让我知道这类实测值得继续做**；[点 Watch](https://github.com/read2017/ai-divination-benchmark/subscription) 会在有更新时收到通知。
