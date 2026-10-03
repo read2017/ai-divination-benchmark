@@ -123,15 +123,15 @@ python3 scripts/reproduce_scores.py
 
 这份测评和配套的口播内容发在「**沉思哲｜AI产品研发**」。
 
-- 邮箱：read2016@qq.com
-- 抖音：108799524 ｜ 小红书：26262268555
+<table>
+<tr>
+<td align="center"><img src="assets/douyin-qrcode.png" width="200" alt="抖音二维码"/><br/><sub>抖音 · 108799524</sub></td>
+<td align="center"><img src="assets/xiaohongshu-qrcode.png" width="200" alt="小红书二维码"/><br/><sub>小红书 · 26262268555</sub></td>
+<td align="center"><img src="assets/wechat-reward-qrcode.png" width="200" alt="微信赞赏码"/><br/><sub>微信赞赏码</sub></td>
+</tr>
+</table>
 
-<!-- 二维码占位：把自己的抖音/小红书二维码分别存成 assets/douyin-qrcode.png 与 assets/xiaohongshu-qrcode.png，然后放开下面这段
-<table><tr>
-<td align="center"><img src="assets/douyin-qrcode.png" width="220"/><br><sub>抖音</sub></td>
-<td align="center"><img src="assets/xiaohongshu-qrcode.png" width="220"/><br><sub>小红书</sub></td>
-</tr></table>
--->
+邮箱：read2016@qq.com ｜ 如果这份测评帮你省了时间，可以扫码请我喝一杯 ☕
 
 ## 支持这个项目
 

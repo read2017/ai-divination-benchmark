@@ -7,6 +7,9 @@
 !/assets/
 /assets/*
 !/assets/hero.gif
+!/assets/douyin-qrcode.png
+!/assets/xiaohongshu-qrcode.png
+!/assets/wechat-reward-qrcode.png
 !/docs/
 /docs/*
 !/docs/index.html
