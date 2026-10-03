@@ -121,18 +121,47 @@ python3 scripts/reproduce_scores.py
 
 ## 关于作者
 
-这份测评和配套的口播内容发在「**沉思哲｜AI产品研发**」。
+<p align="center">
+  我是 <b>沉思哲</b>，做 AI 产品与研发。<br/>
+  做这个测评是想弄清楚一件事：<b>这些工具到底能不能说中真实发生的事。</b>
+</p>
 
-<table>
+<table align="center">
 <tr>
-<td align="center"><img src="assets/douyin-qrcode.png" width="200" alt="抖音二维码"/><br/><sub>抖音 · 108799524</sub></td>
-<td align="center"><img src="assets/xiaohongshu-qrcode.png" width="200" alt="小红书二维码"/><br/><sub>小红书 · 26262268555</sub></td>
-<td align="center"><img src="assets/wechat-reward-qrcode.png" width="200" alt="微信赞赏码"/><br/><sub>微信赞赏码</sub></td>
+<td align="center" width="50%">
+  <img src="assets/douyin-qrcode.png" width="250" alt="抖音：沉思哲"/>
+  <br/>
+  <b>抖音</b>：沉思哲 ｜ AI产品研发<br/>
+  <sub>抖音号：108799524</sub>
+</td>
+<td align="center" width="50%">
+  <img src="assets/xiaohongshu-qrcode.png" width="250" alt="小红书：沉思哲"/>
+  <br/>
+  <b>小红书</b>：沉思哲 ｜ AI产品研发<br/>
+  <sub>小红书号：26262268555</sub>
+</td>
 </tr>
 </table>
 
-邮箱：read2016@qq.com ｜ 如果这份测评帮你省了时间，可以扫码请我喝一杯 ☕
+<p align="center">
+  想让我帮你也做一次实测、想要全套原始数据，或者想聊聊 AI 产品：<br/>
+  📮 <b>read2016@qq.com</b>
+</p>
+
+---
 
 ## 支持这个项目
 
-如果这份测评对你有用，**[点个 Star](https://github.com/read2017/ai-divination-benchmark/stargazers) 让我知道这类实测值得继续做**；[点 Watch](https://github.com/read2017/ai-divination-benchmark/subscription) 会在有更新时收到通知。
+如果这份测评帮到了你：
+
+- **⭐ Star** —— [让更多人看到它](https://github.com/read2017/ai-divination-benchmark/stargazers)
+- **Watch** —— [有更新时收到通知](https://github.com/read2017/ai-divination-benchmark/subscription)
+- **分享** —— 转给一个正在做 AI 工具、或者好奇这类测评怎么做的人
+
+### 请我喝杯咖啡
+
+<p align="center">
+  <img src="assets/wechat-reward-qrcode.png" width="240" alt="请我喝杯咖啡"/>
+  <br/>
+  <sub>微信赞赏码 · 纯打赏，<b>不用于购买服务</b>（有具体需求请走上方邮箱）</sub>
+</p>
