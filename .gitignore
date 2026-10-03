@@ -10,6 +10,7 @@
 !/docs/
 /docs/*
 !/docs/index.html
+!/docs/.nojekyll
 !/docs/assets/
 /docs/assets/*
 !/docs/assets/ziwei.png
