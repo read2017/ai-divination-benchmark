@@ -4,6 +4,9 @@
 !/README.md
 !/PUBLICATION.md
 !/THIRD_PARTY_NOTICES.md
+!/assets/
+/assets/*
+!/assets/hero.gif
 !/docs/
 /docs/*
 !/docs/index.html
@@ -12,7 +15,7 @@
 !/docs/assets/ziwei.png
 !/docs/assets/results.csv
 !/docs/assets/evidence.md
-!/docs/assets/script.md
+# 录屏用的口播脚本（assets/script.md）属于自媒体稿，留在本地（见上方说明）。
 !/docs/assets/Wolke-LICENSE.txt
 !/harness/
 /harness/*
@@ -22,6 +25,7 @@
 /scripts/*
 !/scripts/verify_release.py
 !/scripts/reproduce_scores.py
+!/scripts/make_hero.py
 !/datasets/
 /datasets/*
 !/datasets/gold/
@@ -36,7 +40,8 @@
 !/reports/publication/人生变化命理测评-v6.md
 !/reports/publication/人生变化命理测评-v6-证据附件.md
 !/reports/publication/人生变化测评-逐题明细.csv
-!/reports/publication/AI算命重测-自媒体成稿.md
+# 自媒体口播稿／成稿一律留在本地，不进公开仓库（用户 2026-10-03 明确要求）。
+# 原有的 reports/publication/AI算命重测-自媒体成稿.md 白名单条目已移除。
 !/runs/
 /runs/*
 !/runs/v6-consumer-events/
